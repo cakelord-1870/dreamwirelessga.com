@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/max-xl-n9560.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2018-06-25T09:56:07-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/75079254032</id>
+    <published>2018-06-25T09:56:07-04:00</published>
+    <updated>2018-06-25T09:56:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-tactical-holster-n9560-2"/>
+    <title>Tactical Holster N9560</title>
+    <s:type>Holster Combo</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302205195.jpg?v=1526072154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Holster Combo<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 7 Plus - SUPER DUTY TACTICAL DEFENDER Case - Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/75079254032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>168120425865</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/73971433488</id>
+    <published>2018-06-25T09:55:56-04:00</published>
+    <updated>2018-06-25T09:55:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-tactical-holster-n9560-1"/>
+    <title>Tactical Holster N9560</title>
+    <s:type>Holster Combo</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TA-H-ZTEN9560-01.jpg?v=1521645846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Holster Combo<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE MAX XL N9560 Heavy Duty Tactical Combo Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/73971433488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>21204258</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9827217488</id>
+    <published>2018-06-20T16:55:24-04:00</published>
+    <updated>2018-06-20T16:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-chrome-glitter-zte-n9560-4"/>
+    <title>Chrome Glitter+ ZTE N9560</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CGCM-ZTEN9560-20.jpg?v=1526049762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE MAX XL N9560 CHROME Glitter Motion Case Silver</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9827217488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>168120445702</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9827216592</id>
+    <published>2018-06-20T16:55:24-04:00</published>
+    <updated>2018-06-20T16:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-chrome-glitter-zte-n9560-1"/>
+    <title>Chrome Glitter+ ZTE N9560</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CGCM-ZTEN9560-12.jpg?v=1526049052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE MAX XL N9560 CHROME Glitter Motion Case Gold</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9827216592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>168120445696</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9827203472</id>
+    <published>2018-06-20T16:54:03-04:00</published>
+    <updated>2018-06-20T16:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-chrome-design-max-xl-10"/>
+    <title>Chrome Design+ MAX XL</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CGCM-ZTEN9560-IM20B.jpg?v=1525896185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE MAX XL N9560 CHROME Glitter Motion Love BLUE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9827203472</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>168120445719</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/131412590608</id>
+    <published>2018-05-23T15:46:55-04:00</published>
+    <updated>2018-05-23T15:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zv-design-wallet-zte-max-xl-4"/>
+    <title>ZV Design Wallet+ ZTE MAX XL</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229995.jpg?v=1527880525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max XL N9560 - Owl Love Design Wallet Flap Pouch Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/131412590608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>888488282190</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/131412557840</id>
+    <published>2018-05-23T15:46:54-04:00</published>
+    <updated>2018-05-23T15:46:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zv-design-wallet-zte-max-xl-3"/>
+    <title>ZV Design Wallet+ ZTE MAX XL</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229992.jpg?v=1527880490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max XL N9560 - Purple/Silver Vines Design Wallet Flap Pouch Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/131412557840</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>888488282169</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/131412525072</id>
+    <published>2018-05-23T15:46:52-04:00</published>
+    <updated>2018-05-23T15:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zv-design-wallet-zte-max-xl-2"/>
+    <title>ZV Design Wallet+ ZTE MAX XL</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229996.jpg?v=1527880563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZV Design Wallet Flap Pouch ZTE Max XL / Blade X Max / Max 3 Case w/Credit Card And ID Holder -Thin w/Heavy Duty Protection</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/131412525072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888488282206</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/131412492304</id>
+    <published>2018-05-23T15:46:50-04:00</published>
+    <updated>2018-05-23T15:46:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zv-design-wallet-zte-max-xl-1"/>
+    <title>ZV Design Wallet+ ZTE MAX XL</title>
+    <s:type>HYBRID</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229994.jpg?v=1527880297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>HYBRID<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max Blue 4G LTE - Vibrant Butterflies Design Wallet Flap Pouch Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/131412492304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888488282183</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/131412459536</id>
+    <published>2018-05-23T15:46:49-04:00</published>
+    <updated>2018-05-23T15:46:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zv-design-wallet-zte-max-xl"/>
+    <title>ZV Design Wallet+ ZTE MAX XL</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229997.jpg?v=1527880247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max Blue 4G LTE - Beach Design Wallet Flap Pouch Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/131412459536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888488282213</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/119735320592</id>
+    <published>2018-05-23T15:45:46-04:00</published>
+    <updated>2018-05-23T15:45:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-shock-series-zte-max-xl-6"/>
+    <title>Zizo Shock Series ZTE MAX XL</title>
+    <s:type>HYBRID</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229948.jpg?v=1527879927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>HYBRID<br>
+        <strong>Price: </strong>
+            5.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ZTE Max Blue 4G LTE - Zizo SHOCK 2.0 Refined PC Metallic Bumper Hybrid Case w/ Full Glass Tempered Glass - Purple/Gray</p><br><br><br><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/119735320592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>888488283838</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/119735189520</id>
+    <published>2018-05-23T15:45:44-04:00</published>
+    <updated>2018-05-23T15:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-shock-series-zte-max-xl-4"/>
+    <title>Zizo Shock Series ZTE MAX XL</title>
+    <s:type>HYBRID</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229950.jpg?v=1527879891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>HYBRID<br>
+        <strong>Price: </strong>
+            5.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ZTE Max XL N9560 - Zizo SHOCK 2.0 Refined PC Metallic Bumper Hybrid Case w/ Full Glass Tempered Glass - Gold/Brown</p><br><br><br><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/119735189520</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>888488283814</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/121616236560</id>
+    <published>2018-05-23T15:44:45-04:00</published>
+    <updated>2018-05-23T15:44:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-ion-series-maxxl-n9560"/>
+    <title>Zizo ION Series MAXXL N9560</title>
+    <s:type>HYBRID</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302228980.jpg?v=1527879707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>HYBRID<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Blade Max 3 Z986 - Zizo ION Triple Layered Case Cover w/ Tempered Glass Screen Protector - Rose Gold/Clear</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/121616236560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>888488282480</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/25153241104</id>
+    <published>2018-05-23T15:28:53-04:00</published>
+    <updated>2018-05-23T15:28:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tempered-slim-max-xl"/>
+    <title>Swift Tempered Slim Max XL</title>
+    <s:type>Glass</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/shopping_381267f6-c1fa-4300-b3f2-29efa1c886d7.jpg?v=1515005978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Glass<br>
+        <strong>Price: </strong>
+            0.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/25153241104</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.60</s:price>
+      <s:sku>2222231044587</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9827235728</id>
+    <published>2018-05-23T12:17:53-04:00</published>
+    <updated>2018-05-23T12:17:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-quicksand-design-zten9560"/>
+    <title>Emax Quicksand Design ZTEN9560</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CGCM-ZTEN9560-IM38G.jpg?v=1516027187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9827235728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>21204463</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/132653416464</id>
+    <published>2018-05-14T14:06:30-04:00</published>
+    <updated>2018-05-14T14:06:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-deluxewallet-zte-max-xl-3"/>
+    <title>Eagle DeluxeWallet+ ZTE MAX XL</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEN9560MW2DBR.jpg?v=1526321172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/132653416464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169182523</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/132653383696</id>
+    <published>2018-05-14T14:05:20-04:00</published>
+    <updated>2018-05-14T14:05:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-deluxewallet-zte-max-xl-2"/>
+    <title>Eagle DeluxeWallet+ ZTE MAX XL</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEN9560MW2BR.jpg?v=1526321101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/132653383696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169182554</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/132653350928</id>
+    <published>2018-05-07T16:46:34-04:00</published>
+    <updated>2018-05-07T16:46:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-deluxewallet-zte-max-xl-1"/>
+    <title>Eagle DeluxeWallet+ ZTE MAX XL</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEN9560MW2HPK.jpg?v=1525725979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/132653350928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169182561</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/132653318160</id>
+    <published>2018-05-07T16:45:36-04:00</published>
+    <updated>2018-05-07T16:45:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-deluxewallet-zte-max-xl"/>
+    <title>Eagle DeluxeWallet+ ZTE MAX XL</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEN9560MW2NBL.jpg?v=1525725894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/132653318160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169182530</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/119735255056</id>
+    <published>2018-05-02T13:39:09-04:00</published>
+    <updated>2018-05-02T13:39:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-shock-series-zte-max-xl-5"/>
+    <title>1SHK2-ZTEN9560-NGRBK</title>
+    <s:type>HYBRID</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229949.jpg?v=1525282721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>HYBRID<br>
+        <strong>Price: </strong>
+            5.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Compatible with: ZTE Grand X Max 2 Kirk Z988 Imperial Max Z963U Max Duo Z936VL Z962BL. Military Grade 810-G Drop Test Certified. Shock Absorbing and Impact Dispersion technology. Minimalistically engineered for aesthetics. Full Covered Curved Tempered Glass Screen Protector.</span></p><br><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/119735255056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.15</s:price>
+      <s:sku>888488283821</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9493045328</id>
+    <published>2018-03-31T19:31:00-04:00</published>
+    <updated>2018-03-31T19:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-gradient-glitter-n9560-2"/>
+    <title>Purple Gradient Glitter Hybri</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/AZTEN9560HPCGT003NP.jpg?v=1497474343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple Gradient Glitter Hybrid Protector Cover</p><br><p>Sophisticated gradient glitter design for a radiant shine<br>Hybrid material combining lightweight TPU soft case with frosted PC hard case<br>Flexible wrap-around TPU soft case offers comfortable grip and easy installation<br>Slim and compact design provides a snug fit to your device<br>Built-in power and volume button for extra protection</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9493045328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>885126419055</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/104184840208</id>
+    <published>2018-03-05T21:12:21-05:00</published>
+    <updated>2018-03-05T21:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/tempered-glass-screen-protect-5"/>
+    <title>Tempered Glass Screen Protect</title>
+    <s:type>Glass</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229637.jpg?v=1520529577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glass<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.3mm thick premium-grade tempered glass screen protector provides maximum image clarity and ultimate touch screen sensitivity.<br>9H hardness scratch-resistant surface provides high resistance to shock, impact and damages from sharp objects.<br>Polished, rounded-edge design offers a smooth feel to the perimeter while providing ultimate impact protection to the screen.<br>Shatterproof technology keeps the user and phone safe from scratches and damages if broken.<br>Oleophobic coating prevents excessive fingerprints and oil stains from contaminating the surface, making it easy to clean.<br>Simple application adhesive allows bubble-free installation that is perfectly flat and spotless every time.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXBLUE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/104184840208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>885126418829</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/104183529488</id>
+    <published>2018-03-05T20:50:18-05:00</published>
+    <updated>2018-03-05T20:50:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-zte-max-xl-7"/>
+    <title>Mybat TUFF+ ZTE MAX XL</title>
+    <s:type>TUFF</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229634.jpg?v=1521490973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Blade Max 3 Z986 - Natural Teal Green Pink TUFF Hybrid Case Cover Stand</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/104183529488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>885126441339</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/104183496720</id>
+    <published>2018-03-05T20:50:17-05:00</published>
+    <updated>2018-03-05T20:50:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-zte-max-xl-6"/>
+    <title>Mybat TUFF+ ZTE MAX XL</title>
+    <s:type>TUFF</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229631.jpg?v=1521491112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max Blue 4G LTE - Natural Dark Blue TUFF Hybrid Case Cover Stand</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/104183496720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>885126441308</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/104183300112</id>
+    <published>2018-03-05T20:49:00-05:00</published>
+    <updated>2018-03-05T20:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-design-zte-max-xl-4"/>
+    <title>Mybat TUFF Design+ ZTE MAX XL</title>
+    <s:type>TUFF DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302229632.jpg?v=1521491194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF DESIGN<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Max XL N9560 - Natural Red TUFF Hybrid Case Cover Stand</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MAXXL</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/104183300112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>885126441315</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

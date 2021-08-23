@@ -1,0 +1,254 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-779" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-779" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="779" data-id="apple-iphone-xs-max-heavy-duty-design-case-cover-6"> 
+    <div class="product-options" > 
+      <select id="product-selectors-779" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="8227">Camouflage - $4.30 USD</option>
+        
+        
+        
+        <option  value="5891">Light Pink - $4.30 USD</option>
+        
+        
+        
+        <option  value="8659">Triangles - $4.30 USD</option>
+        
+        
+        
+        <option  value="1427">Yellow Marble - $4.30 USD</option>
+        
+        
+        
+        <option  value="4195">Multicolors - $4.30 USD</option>
+        
+        
+        
+        <option  value="6963">America Flag - $4.30 USD</option>
+        
+        
+        
+        <option  value="9731">Peacock - $4.30 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap779 = {};
+  Shopify.quickshopUpdateOptionsInSelector779 = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick-779 .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick-779 .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick-779 .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick-779 .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick-779 .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick-779 .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap779[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick-779 .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors779 = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap779['root'] = Shopify.quickshopOptionsMap779['root'] || [];
+      Shopify.quickshopOptionsMap779['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap779['root'] = Shopify.uniq(Shopify.quickshopOptionsMap779['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap779[key] = Shopify.quickshopOptionsMap779[key] || [];
+        Shopify.quickshopOptionsMap779[key].push(variant.option2);
+        Shopify.quickshopOptionsMap779[key] = Shopify.uniq(Shopify.quickshopOptionsMap779[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap779[key] = Shopify.quickshopOptionsMap779[key] || [];
+        Shopify.quickshopOptionsMap779[key].push(variant.option3);
+        Shopify.quickshopOptionsMap779[key] = Shopify.uniq(Shopify.quickshopOptionsMap779[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector779(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector779(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector779(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick-779 .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector779(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector779(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick-779 .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector779(2);
+      return true;
+    });
+
+  };
+  productsObj.id779 = {"id":779,"title":"Apple iPhone Xs Max Heavy Duty Design Case Cover","handle":"apple-iphone-xs-max-heavy-duty-design-case-cover-6","description":"Apple iPhone Xs Max Heavy Duty Design Case Cover","published_at":"2019-08-19T12:44:24-04:00","created_at":"2019-08-19T12:54:08-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone XS Plus 6.5\"","tags":["Box Packaged","Design","new"],"price":430,"price_min":430,"price_max":430,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":8227,"title":"Camouflage","option1":"Camouflage","option2":null,"option3":null,"sku":"899","requires_shipping":true,"taxable":false,"featured_image":{"id":3747,"product_id":779,"position":1,"created_at":"2019-08-19T13:48:22-04:00","updated_at":"2019-08-19T13:48:22-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","variant_ids":[8227]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Camouflage","public_title":"Camouflage","options":["Camouflage"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-3,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":723,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v="}}},{"id":5891,"title":"Light Pink","option1":"Light Pink","option2":null,"option3":null,"sku":"868","requires_shipping":true,"taxable":false,"featured_image":{"id":1635,"product_id":779,"position":7,"created_at":"2019-08-19T14:04:38-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v=","variant_ids":[5891]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Light Pink","public_title":"Light Pink","options":["Light Pink"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":603,"position":7,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="}}},{"id":8659,"title":"Triangles","option1":"Triangles","option2":null,"option3":null,"sku":"882","requires_shipping":true,"taxable":false,"featured_image":{"id":2275,"product_id":779,"position":6,"created_at":"2019-08-19T14:05:32-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","variant_ids":[8659]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Triangles","public_title":"Triangles","options":["Triangles"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":787,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v="}}},{"id":1427,"title":"Yellow Marble","option1":"Yellow Marble","option2":null,"option3":null,"sku":"844","requires_shipping":true,"taxable":false,"featured_image":{"id":2195,"product_id":779,"position":5,"created_at":"2019-08-19T14:06:06-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","variant_ids":[1427]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Yellow Marble","public_title":"Yellow Marble","options":["Yellow Marble"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":419,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v="}}},{"id":4195,"title":"Multicolors","option1":"Multicolors","option2":null,"option3":null,"sku":"837","requires_shipping":true,"taxable":false,"featured_image":{"id":0867,"product_id":779,"position":4,"created_at":"2019-08-19T14:06:47-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","variant_ids":[4195]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Multicolors","public_title":"Multicolors","options":["Multicolors"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":211,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v="}}},{"id":6963,"title":"America Flag","option1":"America Flag","option2":null,"option3":null,"sku":"905","requires_shipping":true,"taxable":false,"featured_image":{"id":9539,"product_id":779,"position":3,"created_at":"2019-08-19T14:07:36-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","variant_ids":[6963]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - America Flag","public_title":"America Flag","options":["America Flag"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":235,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v="}}},{"id":9731,"title":"Peacock","option1":"Peacock","option2":null,"option3":null,"sku":"851","requires_shipping":true,"taxable":false,"featured_image":{"id":8931,"product_id":779,"position":2,"created_at":"2019-08-19T14:09:08-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","variant_ids":[9731]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Peacock","public_title":"Peacock","options":["Peacock"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":619,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","options":["Design"],"media":[{"alt":null,"id":723,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","width":3024},{"alt":null,"id":619,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","width":3024},{"alt":null,"id":235,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","width":3024},{"alt":null,"id":211,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","width":3024},{"alt":null,"id":419,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","width":3024},{"alt":null,"id":787,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","width":3024},{"alt":null,"id":603,"position":7,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v=","width":3024}],"content":"Apple iPhone Xs Max Heavy Duty Design Case Cover"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":779,"title":"Apple iPhone Xs Max Heavy Duty Design Case Cover","handle":"apple-iphone-xs-max-heavy-duty-design-case-cover-6","description":"Apple iPhone Xs Max Heavy Duty Design Case Cover","published_at":"2019-08-19T12:44:24-04:00","created_at":"2019-08-19T12:54:08-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone XS Plus 6.5\"","tags":["Box Packaged","Design","new"],"price":430,"price_min":430,"price_max":430,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":8227,"title":"Camouflage","option1":"Camouflage","option2":null,"option3":null,"sku":"899","requires_shipping":true,"taxable":false,"featured_image":{"id":3747,"product_id":779,"position":1,"created_at":"2019-08-19T13:48:22-04:00","updated_at":"2019-08-19T13:48:22-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","variant_ids":[8227]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Camouflage","public_title":"Camouflage","options":["Camouflage"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-3,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":723,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v="}}},{"id":5891,"title":"Light Pink","option1":"Light Pink","option2":null,"option3":null,"sku":"868","requires_shipping":true,"taxable":false,"featured_image":{"id":1635,"product_id":779,"position":7,"created_at":"2019-08-19T14:04:38-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v=","variant_ids":[5891]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Light Pink","public_title":"Light Pink","options":["Light Pink"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":603,"position":7,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="}}},{"id":8659,"title":"Triangles","option1":"Triangles","option2":null,"option3":null,"sku":"882","requires_shipping":true,"taxable":false,"featured_image":{"id":2275,"product_id":779,"position":6,"created_at":"2019-08-19T14:05:32-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","variant_ids":[8659]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Triangles","public_title":"Triangles","options":["Triangles"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":787,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v="}}},{"id":1427,"title":"Yellow Marble","option1":"Yellow Marble","option2":null,"option3":null,"sku":"844","requires_shipping":true,"taxable":false,"featured_image":{"id":2195,"product_id":779,"position":5,"created_at":"2019-08-19T14:06:06-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","variant_ids":[1427]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Yellow Marble","public_title":"Yellow Marble","options":["Yellow Marble"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":419,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v="}}},{"id":4195,"title":"Multicolors","option1":"Multicolors","option2":null,"option3":null,"sku":"837","requires_shipping":true,"taxable":false,"featured_image":{"id":0867,"product_id":779,"position":4,"created_at":"2019-08-19T14:06:47-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","variant_ids":[4195]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Multicolors","public_title":"Multicolors","options":["Multicolors"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":211,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v="}}},{"id":6963,"title":"America Flag","option1":"America Flag","option2":null,"option3":null,"sku":"905","requires_shipping":true,"taxable":false,"featured_image":{"id":9539,"product_id":779,"position":3,"created_at":"2019-08-19T14:07:36-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","variant_ids":[6963]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - America Flag","public_title":"America Flag","options":["America Flag"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":235,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v="}}},{"id":9731,"title":"Peacock","option1":"Peacock","option2":null,"option3":null,"sku":"851","requires_shipping":true,"taxable":false,"featured_image":{"id":8931,"product_id":779,"position":2,"created_at":"2019-08-19T14:09:08-04:00","updated_at":"2019-08-19T14:09:08-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","variant_ids":[9731]},"available":true,"name":"Apple iPhone Xs Max Heavy Duty Design Case Cover - Peacock","public_title":"Peacock","options":["Peacock"],"price":430,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":619,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","options":["Design"],"media":[{"alt":null,"id":723,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=","width":3024},{"alt":null,"id":619,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0213_7b52af8d-fde4-409b-bcb8-a0ae3cdf70f1.jpg?v=","width":3024},{"alt":null,"id":235,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0208_41d1d21e-8593-4a86-9ba7-14e2d812a4cb.jpg?v=","width":3024},{"alt":null,"id":211,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0211_7f15b4d9-8dd5-4b91-958c-274d5dd96b9e.jpg?v=","width":3024},{"alt":null,"id":419,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0209_c8635de5-13b3-48fa-91a6-392b68ae8bd1.jpg?v=","width":3024},{"alt":null,"id":787,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0210_6549b184-af67-4027-be3e-dc.jpg?v=","width":3024},{"alt":null,"id":603,"position":7,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-0206_2cdd6ca6-ac41-48e1-9bcc-37a00b3d7ea9.jpg?v=","width":3024}],"content":"Apple iPhone Xs Max Heavy Duty Design Case Cover"};
+    var layout = $('#product-form-quick-779'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-779", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch-779-' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick-779 .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap779 = {};
+        Shopify.quickshopLinkOptionSelectors779(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

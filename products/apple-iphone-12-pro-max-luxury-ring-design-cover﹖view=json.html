@@ -1,0 +1,250 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-981" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-981" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="981" data-id="apple-iphone-12-pro-max-luxury-ring-design-cover"> 
+    <div class="product-options" > 
+      <select id="product-selectors-981" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="3941">White Flower - $5.15 USD</option>
+        
+        
+        
+        <option  value="9477">White Hearts - $5.15 USD</option>
+        
+        
+        
+        <option  value="2245">Rose Gold Flower - $5.15 USD</option>
+        
+        
+        
+        <option  value="7781">Rose Gold Hearts - $5.15 USD</option>
+        
+        
+        
+        <option  value="3317">Pink Smiling - $5.15 USD</option>
+        
+        
+        
+        <option  value="8853">Green Smiling - $5.15 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap981 = {};
+  Shopify.quickshopUpdateOptionsInSelector981 = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick-981 .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick-981 .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick-981 .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick-981 .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick-981 .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick-981 .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap981[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick-981 .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors981 = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap981['root'] = Shopify.quickshopOptionsMap981['root'] || [];
+      Shopify.quickshopOptionsMap981['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap981['root'] = Shopify.uniq(Shopify.quickshopOptionsMap981['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap981[key] = Shopify.quickshopOptionsMap981[key] || [];
+        Shopify.quickshopOptionsMap981[key].push(variant.option2);
+        Shopify.quickshopOptionsMap981[key] = Shopify.uniq(Shopify.quickshopOptionsMap981[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap981[key] = Shopify.quickshopOptionsMap981[key] || [];
+        Shopify.quickshopOptionsMap981[key].push(variant.option3);
+        Shopify.quickshopOptionsMap981[key] = Shopify.uniq(Shopify.quickshopOptionsMap981[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector981(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector981(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector981(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick-981 .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector981(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector981(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick-981 .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector981(2);
+      return true;
+    });
+
+  };
+  productsObj.id981 = {"id":981,"title":"Apple iPhone 12 Pro Max Luxury Ring Design Cover","handle":"apple-iphone-12-pro-max-luxury-ring-design-cover","description":"Luxury Bling Ring Design Case Cover","published_at":"2021-01-11T12:36:28-05:00","created_at":"2021-01-11T12:36:26-05:00","vendor":"EMAX WIRELESS","type":"Apple iPhone 12 Pro Max (6.7\")","tags":["Box Packaged","Design","new"],"price":515,"price_min":515,"price_max":515,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":3941,"title":"White Flower","option1":"White Flower","option2":null,"option3":null,"sku":"59","requires_shipping":true,"taxable":false,"featured_image":{"id":8149,"product_id":981,"position":1,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:29-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","variant_ids":[3941]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - White Flower","public_title":"White Flower","options":["White Flower"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-D02","featured_media":{"alt":null,"id":2165,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v="}}},{"id":9477,"title":"White Hearts","option1":"White Hearts","option2":null,"option3":null,"sku":"80","requires_shipping":true,"taxable":false,"featured_image":{"id":0917,"product_id":981,"position":2,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","variant_ids":[9477]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - White Hearts","public_title":"White Hearts","options":["White Hearts"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-H02","featured_media":{"alt":null,"id":4933,"position":2,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v="}}},{"id":2245,"title":"Rose Gold Flower","option1":"Rose Gold Flower","option2":null,"option3":null,"sku":"66","requires_shipping":true,"taxable":false,"featured_image":{"id":9845,"product_id":981,"position":3,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","variant_ids":[2245]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Rose Gold Flower","public_title":"Rose Gold Flower","options":["Rose Gold Flower"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-D06","featured_media":{"alt":null,"id":7701,"position":3,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v="}}},{"id":7781,"title":"Rose Gold Hearts","option1":"Rose Gold Hearts","option2":null,"option3":null,"sku":"73","requires_shipping":true,"taxable":false,"featured_image":{"id":3685,"product_id":981,"position":4,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","variant_ids":[7781]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Rose Gold Hearts","public_title":"Rose Gold Hearts","options":["Rose Gold Hearts"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-H06","featured_media":{"alt":null,"id":0469,"position":4,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v="}}},{"id":3317,"title":"Pink Smiling","option1":"Pink Smiling","option2":null,"option3":null,"sku":"97","requires_shipping":true,"taxable":false,"featured_image":{"id":0293,"product_id":981,"position":5,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","variant_ids":[3317]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Pink Smiling","public_title":"Pink Smiling","options":["Pink Smiling"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-S06","featured_media":{"alt":null,"id":3237,"position":5,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v="}}},{"id":8853,"title":"Green Smiling","option1":"Green Smiling","option2":null,"option3":null,"sku":"03","requires_shipping":true,"taxable":false,"featured_image":{"id":2613,"product_id":981,"position":6,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v=","variant_ids":[8853]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Green Smiling","public_title":"Green Smiling","options":["Green Smiling"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-S09","featured_media":{"alt":null,"id":6005,"position":6,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","options":["Style"],"media":[{"alt":null,"id":2165,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","width":500},{"alt":null,"id":4933,"position":2,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","width":500},{"alt":null,"id":7701,"position":3,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","width":500},{"alt":null,"id":0469,"position":4,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","width":500},{"alt":null,"id":3237,"position":5,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","width":500},{"alt":null,"id":6005,"position":6,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v=","width":500}],"content":"Luxury Bling Ring Design Case Cover"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":981,"title":"Apple iPhone 12 Pro Max Luxury Ring Design Cover","handle":"apple-iphone-12-pro-max-luxury-ring-design-cover","description":"Luxury Bling Ring Design Case Cover","published_at":"2021-01-11T12:36:28-05:00","created_at":"2021-01-11T12:36:26-05:00","vendor":"EMAX WIRELESS","type":"Apple iPhone 12 Pro Max (6.7\")","tags":["Box Packaged","Design","new"],"price":515,"price_min":515,"price_max":515,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":3941,"title":"White Flower","option1":"White Flower","option2":null,"option3":null,"sku":"59","requires_shipping":true,"taxable":false,"featured_image":{"id":8149,"product_id":981,"position":1,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:29-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","variant_ids":[3941]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - White Flower","public_title":"White Flower","options":["White Flower"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-D02","featured_media":{"alt":null,"id":2165,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v="}}},{"id":9477,"title":"White Hearts","option1":"White Hearts","option2":null,"option3":null,"sku":"80","requires_shipping":true,"taxable":false,"featured_image":{"id":0917,"product_id":981,"position":2,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","variant_ids":[9477]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - White Hearts","public_title":"White Hearts","options":["White Hearts"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-H02","featured_media":{"alt":null,"id":4933,"position":2,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v="}}},{"id":2245,"title":"Rose Gold Flower","option1":"Rose Gold Flower","option2":null,"option3":null,"sku":"66","requires_shipping":true,"taxable":false,"featured_image":{"id":9845,"product_id":981,"position":3,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","variant_ids":[2245]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Rose Gold Flower","public_title":"Rose Gold Flower","options":["Rose Gold Flower"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-D06","featured_media":{"alt":null,"id":7701,"position":3,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v="}}},{"id":7781,"title":"Rose Gold Hearts","option1":"Rose Gold Hearts","option2":null,"option3":null,"sku":"73","requires_shipping":true,"taxable":false,"featured_image":{"id":3685,"product_id":981,"position":4,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","variant_ids":[7781]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Rose Gold Hearts","public_title":"Rose Gold Hearts","options":["Rose Gold Hearts"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-H06","featured_media":{"alt":null,"id":0469,"position":4,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v="}}},{"id":3317,"title":"Pink Smiling","option1":"Pink Smiling","option2":null,"option3":null,"sku":"97","requires_shipping":true,"taxable":false,"featured_image":{"id":0293,"product_id":981,"position":5,"created_at":"2021-01-11T12:36:30-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","variant_ids":[3317]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Pink Smiling","public_title":"Pink Smiling","options":["Pink Smiling"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-S06","featured_media":{"alt":null,"id":3237,"position":5,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v="}}},{"id":8853,"title":"Green Smiling","option1":"Green Smiling","option2":null,"option3":null,"sku":"03","requires_shipping":true,"taxable":false,"featured_image":{"id":2613,"product_id":981,"position":6,"created_at":"2021-01-11T12:36:29-05:00","updated_at":"2021-01-11T12:36:30-05:00","alt":null,"width":500,"height":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v=","variant_ids":[8853]},"available":true,"name":"Apple iPhone 12 Pro Max Luxury Ring Design Cover - Green Smiling","public_title":"Green Smiling","options":["Green Smiling"],"price":515,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"EX-BR-IP12MX-S09","featured_media":{"alt":null,"id":6005,"position":6,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","options":["Style"],"media":[{"alt":null,"id":2165,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D02.jpg?v=","width":500},{"alt":null,"id":4933,"position":2,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H02.jpg?v=","width":500},{"alt":null,"id":7701,"position":3,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-D06.jpg?v=","width":500},{"alt":null,"id":0469,"position":4,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-H06.jpg?v=","width":500},{"alt":null,"id":3237,"position":5,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S06.jpg?v=","width":500},{"alt":null,"id":6005,"position":6,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v="},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/EX-BR-IP12MX-S09.jpg?v=","width":500}],"content":"Luxury Bling Ring Design Case Cover"};
+    var layout = $('#product-form-quick-981'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-981", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch-981-' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick-981 .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap981 = {};
+        Shopify.quickshopLinkOptionSelectors981(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

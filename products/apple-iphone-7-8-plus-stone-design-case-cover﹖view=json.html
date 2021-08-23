@@ -1,0 +1,250 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-483" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-483" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="483" data-id="apple-iphone-7-8-plus-stone-design-case-cover"> 
+    <div class="product-options" > 
+      <select id="product-selectors-483" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="6291">Red & Black Stones - $6.90 USD</option>
+        
+        
+        
+        <option  value="9059">Black Flower - $6.90 USD</option>
+        
+        
+        
+        <option  value="1827">Mix Stones - $6.90 USD</option>
+        
+        
+        
+        <option  value="9507">Clear Stones - $6.90 USD</option>
+        
+        
+        
+        <option  value="5011">Stone Heart - $6.90 USD</option>
+        
+        
+        
+        <option  value="3683">Purple Stones - $6.90 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap483 = {};
+  Shopify.quickshopUpdateOptionsInSelector483 = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick-483 .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick-483 .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick-483 .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick-483 .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick-483 .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick-483 .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap483[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick-483 .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors483 = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap483['root'] = Shopify.quickshopOptionsMap483['root'] || [];
+      Shopify.quickshopOptionsMap483['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap483['root'] = Shopify.uniq(Shopify.quickshopOptionsMap483['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap483[key] = Shopify.quickshopOptionsMap483[key] || [];
+        Shopify.quickshopOptionsMap483[key].push(variant.option2);
+        Shopify.quickshopOptionsMap483[key] = Shopify.uniq(Shopify.quickshopOptionsMap483[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap483[key] = Shopify.quickshopOptionsMap483[key] || [];
+        Shopify.quickshopOptionsMap483[key].push(variant.option3);
+        Shopify.quickshopOptionsMap483[key] = Shopify.uniq(Shopify.quickshopOptionsMap483[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector483(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector483(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector483(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick-483 .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector483(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector483(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick-483 .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector483(2);
+      return true;
+    });
+
+  };
+  productsObj.id483 = {"id":483,"title":"Apple iPhone 7\/8 Plus Stone Design Case Cover","handle":"apple-iphone-7-8-plus-stone-design-case-cover","description":"Hybrid Stones  Design Cover","published_at":"2020-09-04T14:16:41-04:00","created_at":"2020-09-04T14:16:39-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone 8 Plus 5.5\"","tags":["Box Packaged","Design","new","Texture"],"price":690,"price_min":690,"price_max":690,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":6291,"title":"Red \u0026 Black Stones","option1":"Red \u0026 Black Stones","option2":null,"option3":null,"sku":"445","requires_shipping":true,"taxable":false,"featured_image":{"id":3027,"product_id":483,"position":1,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":2901,"height":3867,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","variant_ids":[6291]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Red \u0026 Black Stones","public_title":"Red \u0026 Black Stones","options":["Red \u0026 Black Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-5,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 10","featured_media":{"alt":null,"id":091,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3867,"width":2901,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v="}}},{"id":9059,"title":"Black Flower","option1":"Black Flower","option2":null,"option3":null,"sku":"852","requires_shipping":true,"taxable":false,"featured_image":{"id":1331,"product_id":483,"position":2,"created_at":"2020-09-04T14:16:43-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","variant_ids":[9059]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Black Flower","public_title":"Black Flower","options":["Black Flower"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 5","featured_media":{"alt":null,"id":163,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v="}}},{"id":1827,"title":"Mix Stones","option1":"Mix Stones","option2":null,"option3":null,"sku":"132","requires_shipping":true,"taxable":false,"featured_image":{"id":0259,"product_id":483,"position":3,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","variant_ids":[1827]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Mix Stones","public_title":"Mix Stones","options":["Mix Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 9","featured_media":{"alt":null,"id":003,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v="}}},{"id":9507,"title":"Clear Stones","option1":"Clear Stones","option2":null,"option3":null,"sku":"945","requires_shipping":true,"taxable":false,"featured_image":{"id":4723,"product_id":483,"position":4,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","variant_ids":[9507]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Clear Stones","public_title":"Clear Stones","options":["Clear Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 13","featured_media":{"alt":null,"id":771,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v="}}},{"id":5011,"title":"Stone Heart","option1":"Stone Heart","option2":null,"option3":null,"sku":"930","requires_shipping":true,"taxable":false,"featured_image":{"id":5795,"product_id":483,"position":5,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","variant_ids":[5011]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Stone Heart","public_title":"Stone Heart","options":["Stone Heart"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 6","featured_media":{"alt":null,"id":539,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v="}}},{"id":3683,"title":"Purple Stones","option1":"Purple Stones","option2":null,"option3":null,"sku":"981","requires_shipping":true,"taxable":false,"featured_image":{"id":8563,"product_id":483,"position":6,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v=","variant_ids":[3683]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Purple Stones","public_title":"Purple Stones","options":["Purple Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 8","featured_media":{"alt":null,"id":307,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","options":["Style"],"media":[{"alt":null,"id":091,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3867,"width":2901,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v="},"aspect_ratio":0.75,"height":3867,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","width":2901},{"alt":null,"id":163,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","width":3024},{"alt":null,"id":003,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","width":3024},{"alt":null,"id":771,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","width":3024},{"alt":null,"id":539,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","width":3024},{"alt":null,"id":307,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v=","width":3024}],"content":"Hybrid Stones  Design Cover"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":483,"title":"Apple iPhone 7\/8 Plus Stone Design Case Cover","handle":"apple-iphone-7-8-plus-stone-design-case-cover","description":"Hybrid Stones  Design Cover","published_at":"2020-09-04T14:16:41-04:00","created_at":"2020-09-04T14:16:39-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone 8 Plus 5.5\"","tags":["Box Packaged","Design","new","Texture"],"price":690,"price_min":690,"price_max":690,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":6291,"title":"Red \u0026 Black Stones","option1":"Red \u0026 Black Stones","option2":null,"option3":null,"sku":"445","requires_shipping":true,"taxable":false,"featured_image":{"id":3027,"product_id":483,"position":1,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":2901,"height":3867,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","variant_ids":[6291]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Red \u0026 Black Stones","public_title":"Red \u0026 Black Stones","options":["Red \u0026 Black Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-5,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 10","featured_media":{"alt":null,"id":091,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3867,"width":2901,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v="}}},{"id":9059,"title":"Black Flower","option1":"Black Flower","option2":null,"option3":null,"sku":"852","requires_shipping":true,"taxable":false,"featured_image":{"id":1331,"product_id":483,"position":2,"created_at":"2020-09-04T14:16:43-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","variant_ids":[9059]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Black Flower","public_title":"Black Flower","options":["Black Flower"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 5","featured_media":{"alt":null,"id":163,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v="}}},{"id":1827,"title":"Mix Stones","option1":"Mix Stones","option2":null,"option3":null,"sku":"132","requires_shipping":true,"taxable":false,"featured_image":{"id":0259,"product_id":483,"position":3,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","variant_ids":[1827]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Mix Stones","public_title":"Mix Stones","options":["Mix Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 9","featured_media":{"alt":null,"id":003,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v="}}},{"id":9507,"title":"Clear Stones","option1":"Clear Stones","option2":null,"option3":null,"sku":"945","requires_shipping":true,"taxable":false,"featured_image":{"id":4723,"product_id":483,"position":4,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","variant_ids":[9507]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Clear Stones","public_title":"Clear Stones","options":["Clear Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 13","featured_media":{"alt":null,"id":771,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v="}}},{"id":5011,"title":"Stone Heart","option1":"Stone Heart","option2":null,"option3":null,"sku":"930","requires_shipping":true,"taxable":false,"featured_image":{"id":5795,"product_id":483,"position":5,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","variant_ids":[5011]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Stone Heart","public_title":"Stone Heart","options":["Stone Heart"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 6","featured_media":{"alt":null,"id":539,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v="}}},{"id":3683,"title":"Purple Stones","option1":"Purple Stones","option2":null,"option3":null,"sku":"981","requires_shipping":true,"taxable":false,"featured_image":{"id":8563,"product_id":483,"position":6,"created_at":"2020-09-04T14:16:42-04:00","updated_at":"2020-09-04T15:15:42-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v=","variant_ids":[3683]},"available":true,"name":"Apple iPhone 7\/8 Plus Stone Design Case Cover - Purple Stones","public_title":"Purple Stones","options":["Purple Stones"],"price":690,"weight":191,"compare_at_price":null,"inventory_quantity":-1,"inventory_management":null,"inventory_policy":"deny","barcode":"Design 8","featured_media":{"alt":null,"id":307,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","options":["Style"],"media":[{"alt":null,"id":091,"position":1,"preview_image":{"aspect_ratio":0.75,"height":3867,"width":2901,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v="},"aspect_ratio":0.75,"height":3867,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4056.jpg?v=","width":2901},{"alt":null,"id":163,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4053.jpg?v=","width":3024},{"alt":null,"id":003,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4052.jpg?v=","width":3024},{"alt":null,"id":771,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4051.jpg?v=","width":3024},{"alt":null,"id":539,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4055.jpg?v=","width":3024},{"alt":null,"id":307,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-4054.jpg?v=","width":3024}],"content":"Hybrid Stones  Design Cover"};
+    var layout = $('#product-form-quick-483'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-483", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch-483-' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick-483 .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap483 = {};
+        Shopify.quickshopLinkOptionSelectors483(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

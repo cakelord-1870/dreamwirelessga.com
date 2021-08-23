@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/zte-tempo-x-n9137-blade-vantage-z839.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2018-06-20T17:37:49-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/55379230736</id>
+    <published>2018-06-20T17:37:49-04:00</published>
+    <updated>2018-06-20T17:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-tempo-xn9137-1"/>
+    <title>Emax Brushed Tempo X(N9137)</title>
+    <s:type>Brush</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235759.jpg?v=1513978770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Brush<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/55379230736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>168120457897</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24880119824</id>
+    <published>2018-06-20T17:06:56-04:00</published>
+    <updated>2018-06-20T17:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/aimo-design-wallet-zte-tempo-1"/>
+    <title>Design Wallet  Zte Tempo</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>AIMO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/C-ZTE9137FCM485.jpg?v=1516982916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AIMO WIRELESS<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p><br><br><br><br><br><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24880119824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>888790800594</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24880087056</id>
+    <published>2018-06-20T17:06:55-04:00</published>
+    <updated>2018-06-20T17:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/aimo-design-wallet-zte-tempo"/>
+    <title>Design Wallet  Zte Tempo</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>AIMO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/C-ZTE9137FCM457.jpg?v=1528041851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AIMO WIRELESS<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Tempo X N9137/Avid 4 / Z855 Luxury Flip PU Leather Folio Wallet, Floral Pattern/Roses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24880087056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>888790800631</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/113521033232</id>
+    <published>2018-03-19T19:19:08-04:00</published>
+    <updated>2018-03-19T19:19:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-wallet-tempo-x-n9137"/>
+    <title>Emax Wallet /Tempo X N9137</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/DW-ZTEN9137-01.jpg?v=1521839606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Tempo X N9137 Deluxe Wallet w/ Blister Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/113521033232</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>168120458139</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/66853765136</id>
+    <published>2018-03-14T20:06:57-04:00</published>
+    <updated>2018-03-14T20:06:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-holster-combo-tempo-x-2"/>
+    <title>Emax Holster Combo Tempo X</title>
+    <s:type>HOLSTERCOMBO</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302236101_01.jpg?v=1515357163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>HOLSTERCOMBO<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/66853765136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>168120456944</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/107060920336</id>
+    <published>2018-03-14T19:38:40-04:00</published>
+    <updated>2018-03-14T19:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-holster-combo-tempo-x-4"/>
+    <title>Emax Holster Combo Tempo X</title>
+    <s:type>HOLSTERCOMBO</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/RPLS-H-ZTEN9137-05_5b65b97b-71d2-4102-a2d3-91e576342d4d.jpg?v=1521839712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>HOLSTERCOMBO<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Tempo X N9137 Hybrid H Stand Holster Red</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/107060920336</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>168120456951</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/55380213776</id>
+    <published>2018-03-06T12:48:16-05:00</published>
+    <updated>2018-03-06T12:48:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-glass-tempo-x"/>
+    <title>Emax Glass Tempo X</title>
+    <s:type>Glass</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302205837.jpg?v=1513979398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Glass<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/55380213776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>168120433525</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/103784775696</id>
+    <published>2018-03-03T19:42:29-05:00</published>
+    <updated>2018-03-03T19:42:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lucky-elephant-mandala-tempox-1"/>
+    <title>European Rose &amp; Rose Gold Qui</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302238952.jpg?v=1521839758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Overture 3 Z851M - European Rose &amp; Rose Gold Quicksand Glitter Hybrid Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/103784775696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>885126479110</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/103135543312</id>
+    <published>2018-02-28T19:16:06-05:00</published>
+    <updated>2018-02-28T19:16:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-design-tempo-x"/>
+    <title>Pink Oak-Hunting Camouflage C</title>
+    <s:type>TUFF DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239085.jpg?v=1521840053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF DESIGN<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Fanfare 3 - Pink Oak-Hunting Camouflage TUFF Hybrid Phone Case Cover [Military-Grade Certified]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/103135543312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>885126480123</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/103134068752</id>
+    <published>2018-02-28T18:51:27-05:00</published>
+    <updated>2018-02-28T18:51:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/black-lace-flowers-2d-rose-g-1"/>
+    <title>Black Lace Flowers (2D Rose G</title>
+    <s:type>TUFF DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302236550.jpg?v=1521839949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF DESIGN<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Avid 4 Black Lace Flowers Rose Gold TUFF Hybrid Case [Military-Grade Certified]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/103134068752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>885126468367</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/66853732368</id>
+    <published>2018-02-23T20:27:21-05:00</published>
+    <updated>2018-02-23T20:27:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-holster-combo-tempo-x-1"/>
+    <title>Emax Holster Combo Tempo X</title>
+    <s:type>HOLSTERCOMBO</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302236100_01.jpg?v=1515357209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>HOLSTERCOMBO<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/66853732368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>168120456937</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/55379296272</id>
+    <published>2018-02-23T20:25:52-05:00</published>
+    <updated>2018-02-23T20:25:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-tempo-xn9137-3"/>
+    <title>Emax Brushed Tempo X(N9137)</title>
+    <s:type>Brush</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235764.jpg?v=1513978943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Brush<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/55379296272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>168120457910</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/55379263504</id>
+    <published>2018-02-23T20:25:51-05:00</published>
+    <updated>2018-02-23T20:25:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-tempo-xn9137-2"/>
+    <title>Emax Brushed Tempo X(N9137)</title>
+    <s:type>Brush</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235763.jpg?v=1513978891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Brush<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/55379263504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>168120457903</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24973049872</id>
+    <published>2018-02-23T20:19:32-05:00</published>
+    <updated>2018-02-23T20:19:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-kicstand-zte-tempo-x-4"/>
+    <title>Eagle Kicstand Zte Tempo X</title>
+    <s:type>Kickstand</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235312.jpg?v=1513974852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Kickstand<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24973049872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>841169180871</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99655417872</id>
+    <published>2018-02-22T22:50:43-05:00</published>
+    <updated>2018-02-22T22:50:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/red-and-white-roses-bl-tempo-x"/>
+    <title>Red and White Roses/Black TUF</title>
+    <s:type>TUFF DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239086.jpg?v=1519426207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF DESIGN<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99655417872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>885126480130</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99654565904</id>
+    <published>2018-02-22T22:44:42-05:00</published>
+    <updated>2018-02-22T22:44:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-design-wallet-tempo-x"/>
+    <title>MYBAT Design Wallet TEMPO X</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239102_03.jpg?v=1519426312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            4.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99654565904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.65</s:price>
+      <s:sku>885126480192</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99654467600</id>
+    <published>2018-02-22T22:43:33-05:00</published>
+    <updated>2018-02-22T22:43:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lucky-flowers-gel-blac-tempo-x"/>
+    <title>Lucky Flowers Gel/Blac TEMPO X</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239075.jpg?v=1519426355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99654467600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>885126480055</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99654434832</id>
+    <published>2018-02-22T22:43:32-05:00</published>
+    <updated>2018-02-22T22:43:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lucky-elephant-mandala-tempo-x"/>
+    <title>Lucky Elephant Mandala TEMPO X</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239076.jpg?v=1519426451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99654434832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>885126480062</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99654402064</id>
+    <published>2018-02-22T22:43:30-05:00</published>
+    <updated>2018-02-22T22:43:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lucky-elephant-mandala-tempox"/>
+    <title>Lucky Elephant Mandala  TEMPOX</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302238961.jpg?v=1519426528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99654402064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>885126479158</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99652501520</id>
+    <published>2018-02-22T22:35:49-05:00</published>
+    <updated>2018-02-22T22:35:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eiffel-tower-love-gel-itempo-x"/>
+    <title>Eiffel Tower Love TEMPO X</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239074.jpg?v=1519426623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99652501520</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>885126480048</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99652468752</id>
+    <published>2018-02-22T22:35:47-05:00</published>
+    <updated>2018-02-22T22:35:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eiffel-tower-diamante-tempo-x"/>
+    <title>Eiffel Tower Diamante TEMPO X</title>
+    <s:type>WALLET DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239103.jpg?v=1519426691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>WALLET DESIGN<br>
+        <strong>Price: </strong>
+            4.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99652468752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.65</s:price>
+      <s:sku>885126469456</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99651977232</id>
+    <published>2018-02-22T22:31:32-05:00</published>
+    <updated>2018-02-22T22:31:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/dreamcatcher-love-gel-tempo-x"/>
+    <title>Dreamcatcher Love TEMPO X</title>
+    <s:type>TUFF DESIGN</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302239077.jpg?v=1519427049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>TUFF DESIGN<br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99651977232</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>885126480079</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99651321872</id>
+    <published>2018-02-22T22:28:23-05:00</published>
+    <updated>2018-02-22T22:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-glitter-tempo-x"/>
+    <title>ASMYNA GLITTER TEMPO X</title>
+    <s:type>Glitter</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302238143.jpg?v=1519427135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Glitter<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99651321872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>885126479790</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99342155792</id>
+    <published>2018-02-21T19:47:30-05:00</published>
+    <updated>2018-02-21T19:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-kicstand-zte-tempo-x-7"/>
+    <title>Eagle Kicstand Zte Tempo X</title>
+    <s:type>KICKSTAND</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235306_03.jpg?v=1519427204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>KICKSTAND<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99342155792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>841169180857</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/99342123024</id>
+    <published>2018-02-21T19:47:28-05:00</published>
+    <updated>2018-02-21T19:47:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-kicstand-zte-tempo-x-6"/>
+    <title>Eagle Kicstand Zte Tempo X</title>
+    <s:type>KICKSTAND</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235307_03.jpg?v=1519427273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>KICKSTAND<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TEMPOX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/99342123024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>841169180833</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

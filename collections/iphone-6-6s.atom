@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/iphone-6-6s.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2019-09-18T12:20:24-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4034239889507</id>
+    <published>2019-09-18T12:20:24-04:00</published>
+    <updated>2019-09-18T12:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-privacy-tempered-glass"/>
+    <title>Apple iPhone 6/6s Privacy Tempered Glass</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE6LCDSCPR67_1.jpg?v=1568823744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6s Privacy Tempered Glass</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4034239889507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>885126520898</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3927813193827</id>
+    <published>2019-07-09T11:00:20-04:00</published>
+    <updated>2019-07-09T11:00:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-waterproof-case-cover"/>
+    <title>Apple iPhone 6 Waterproof Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/14102161wb.jpg?v=1562685127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6  waterproof case hardcover shock resistant dust-proof in White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3927813193827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>waterproof</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3927814832227</id>
+    <published>2019-07-09T11:00:06-04:00</published>
+    <updated>2019-07-09T11:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-waterproof-case-cover-1"/>
+    <title>Apple iPhone 6 Waterproof Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/rBVaEFgF3i6AXdh7AALFV23AjQc204.jpg?v=1562685521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6  waterproof case hardcover shock resistant dust-proof in Red</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3927814832227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>waterproof</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3927790420067</id>
+    <published>2019-07-09T09:32:43-04:00</published>
+    <updated>2019-07-09T09:32:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-waterproof-case-cover"/>
+    <title>Apple iPhone Waterproof Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/underwater-heavy-duty-for-iphone-6-waterproof_1.jpg?v=1562684393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 waterproof case hardcover shock resistant dust-proof In Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3927790420067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>waterproof</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3487970984035</id>
+    <published>2019-04-14T17:28:00-04:00</published>
+    <updated>2019-04-14T17:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6s-6-wallet-case-cover"/>
+    <title>Apple iPhone 6s/6 Wallet Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/4_8f377a0c-3135-4930-ac19-f14af1ee3a24.jpg?v=1555278860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 / 6S Asmyna MyJacket Wallet - Black / Brown</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3487970984035</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>885126253611</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3443373310051</id>
+    <published>2019-04-07T17:40:11-04:00</published>
+    <updated>2019-04-07T17:40:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-tempered-glass-cover-1"/>
+    <title>Apple iPhone 6/6S Tempered Glass Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/SCPTGTA-IPH6P-BK-2_ff42887f-9c3a-4177-a3b4-0f28390f13ff.jpg?v=1554673511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Full Cover Tempered Glass Cover in Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3443373310051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.30</s:price>
+      <s:sku>2222231082770</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3443370295395</id>
+    <published>2019-04-07T17:40:11-04:00</published>
+    <updated>2019-04-07T17:40:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-plus-tempered-glass-cover-1"/>
+    <title>Apple iPhone 6/6S Plus Tempered Glass Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/SCPTGTA-IPH6P-BK-2_72d536d4-9394-4912-8dca-871fd0904694.jpg?v=1554673314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Full Cover Tempered Glass in Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3443370295395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.30</s:price>
+      <s:sku>2222231122285</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3443358531683</id>
+    <published>2019-04-07T17:23:25-04:00</published>
+    <updated>2019-04-07T17:23:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-tempered-glass-cover"/>
+    <title>Apple iPhone 6/6S Tempered Glass Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iPhone_6_6s_Tempered_Glass_White_I__81643.1500919223.jpg?v=1554672877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Full Cover Tempered Glass Cover in White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3443358531683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.30</s:price>
+      <s:sku>2222231082794</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489176789091</id>
+    <published>2019-02-07T16:04:47-05:00</published>
+    <updated>2019-02-07T16:04:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-heavy-duty-marble-case-cover-11"/>
+    <title>Apple iPhone 8/7/6 Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_1_9c8fbdd8-c0a0-4c09-9688-de18a7d0a371.jpg?v=1549574969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Marble Clear Defender Transparent Case For iPhone 8/7/6</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489176789091</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>751205255107</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489169678435</id>
+    <published>2019-02-07T15:52:40-05:00</published>
+    <updated>2019-02-07T15:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-heavy-duty-marble-case-cover-3"/>
+    <title>Apple iPhone 8/7/6 Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_4_a155e402-a6bb-4dac-a908-ac1ee7552f3c.jpg?v=1549574171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marble Clear Defender Transparent Case For iPhone 8/7/6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489169678435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>985244730053</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1475809280099</id>
+    <published>2019-01-20T10:27:53-05:00</published>
+    <updated>2019-01-20T10:27:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-hybrid-case-cover"/>
+    <title>Apple iPhone 6/6S Hybrid Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/AIPHONE6HPCSAAS341NP.jpg?v=1547998942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            2.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 / 6S Astronoot Phone Protector Cover - Black / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1475809280099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.80</s:price>
+      <s:sku>885126229616</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1472770900067</id>
+    <published>2019-01-06T11:39:51-05:00</published>
+    <updated>2019-01-06T11:39:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-wallet-case-cover"/>
+    <title>Apple iPhone 6 Wallet Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WP2-IP6-07.jpg?v=1546794223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">iPhone 6 4.7 Wallet Pouch Baby Pink</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1472770900067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>168120370363</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1470889492579</id>
+    <published>2018-12-31T12:38:46-05:00</published>
+    <updated>2018-12-31T12:38:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-hybrid-card-case-cover"/>
+    <title>Apple iPhone 6/6S Hybrid Card Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302237149_01.jpg?v=1546279151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            7.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6S - Gold Book-Style Executive Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1470889492579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>885126472418</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1470898077795</id>
+    <published>2018-12-31T12:38:38-05:00</published>
+    <updated>2018-12-31T12:38:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-hybrid-card-case-cover-1"/>
+    <title>Apple iPhone 6/6S Hybrid Card Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302237150_01.jpg?v=1546281922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            7.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6S - Rose Gold Book-Style Executive Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1470898077795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>885126472425</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/74032185360</id>
+    <published>2018-12-01T14:18:12-05:00</published>
+    <updated>2018-12-01T14:18:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-metal-tpu-kickstand-ip6s-5"/>
+    <title>Apple iPhone 6/6S TPU Kickstand Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIPHONE7HPCSAAS826WP.jpg?v=1543691894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dark Grey/Transparent Clear Hybrid Protector Cover (with Magnetic Metal Stand)(with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/74032185360</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231061287</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/74032250896</id>
+    <published>2018-12-01T14:13:37-05:00</published>
+    <updated>2018-12-01T14:13:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-metal-tpu-kickstand-ip6s-7"/>
+    <title>Apple iPhone 6/6S TPU Kickstand Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIPHONE7HPCSAAS823NP_35f7a228-53a9-44d0-85fc-ce460b86753a.jpg?v=1543691664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/ 6S Kickstand Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/74032250896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231061270</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1461227520099</id>
+    <published>2018-12-01T14:13:07-05:00</published>
+    <updated>2018-12-01T14:13:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-tpu-kickstand-case-cover-1"/>
+    <title>Apple iPhone 6/6S TPU Kickstand Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIP7PLUSHPCSAAS823NP.jpg?v=1543692529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose Gold/Transparent Clear Hybrid Protector Cover (with Magnetic Metal Stand)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1461227520099</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231061393</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1461209694307</id>
+    <published>2018-12-01T11:21:16-05:00</published>
+    <updated>2018-12-01T11:21:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-tpu-kickstand-case-cover"/>
+    <title>Apple iPhone 6/6s TPU Kickstand Case Cover</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIPHONE7HPCSAAS823NP.jpg?v=1543686019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose Gold/Transparent Clear Hybrid Protector Cover (with Magnetic Metal Stand)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1461209694307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231061317</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1419305779299</id>
+    <published>2018-08-12T16:34:50-04:00</published>
+    <updated>2018-08-12T16:34:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6s-hybrid-grip-case"/>
+    <title>iPhone 6s  Hybrid Grip Case</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE6HPCFSSO648WP.jpg?v=1534106303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MYBAT Ink Blue Dots Textured/Black Fusion Protector Cover (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1419305779299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>885126524872</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1419305123939</id>
+    <published>2018-08-12T16:28:33-04:00</published>
+    <updated>2018-08-12T16:28:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6-hybrid-texture-grip-case"/>
+    <title>iPhone 6 Hybrid Texture Grip Case</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302237023.jpg?v=1534105890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Plus Black Dots Textured/Black Fusion Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1419305123939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>885126471589</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1419304468579</id>
+    <published>2018-08-12T16:26:06-04:00</published>
+    <updated>2018-08-12T16:26:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6-hybrid-grip-case"/>
+    <title>iPhone 6 Hybrid Grip Case</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE6HPCFSSO643WP.jpg?v=1534105699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MYBAT Rose Gold Dots Textured/Transparent Clear Fusion Protector Cover (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1419304468579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>885126471541</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1323146575995</id>
+    <published>2018-07-23T15:50:44-04:00</published>
+    <updated>2018-07-23T15:50:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-design-wallet"/>
+    <title>Apple iPhone 6 Design Wallet</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302176772.jpg?v=1532375668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            4.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 - Purple Flowers Diamante MyJacket Wallet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1323146575995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.60</s:price>
+      <s:sku>885126318006</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1323142971515</id>
+    <published>2018-07-23T15:26:14-04:00</published>
+    <updated>2018-07-23T15:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6s-6-ice-cream-scoops-case"/>
+    <title>iPhone 6S / 6 Ice Cream Scoops Case</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE6HPCTUFFIM612WP__10135.1530911814.900.900.jpg?v=1532374222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">iPhone 6S / 6 Ice Cream Scoops/Electric Green &amp; Soft Pink TUFF Hybrid Phone Protector Cover [Military-Grade Certified](with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1323142971515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>885126523141</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1323126653051</id>
+    <published>2018-07-23T10:07:00-04:00</published>
+    <updated>2018-07-23T10:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-hybrid-case"/>
+    <title>Apple iPhone 6/6S Hybrid Case</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302237048.jpg?v=1532355224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Black Dots Textured/Black Fusion Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1323126653051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>885126471534</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8605926032</id>
+    <published>2018-06-30T16:18:02-04:00</published>
+    <updated>2018-06-30T16:18:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-dtpu03-iphone6st"/>
+    <title>Reiko DTPU03-IPHONE6ST</title>
+    <s:type>Apple iPhone 6 4.7&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/DTPU03-IPHONE6ST-1.jpg?v=1500302142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 6 4.7&quot;<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Design</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8605926032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>885249746403</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

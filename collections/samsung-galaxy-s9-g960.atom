@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/samsung-galaxy-s9-g960.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2020-02-08T09:56:48-05:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/125236903952</id>
+    <published>2020-02-08T09:56:48-05:00</published>
+    <updated>2020-02-08T09:56:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/pro-case-combo-galaxy-s9-4"/>
+    <title>Pro Case Combo Galaxy S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/125236903952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>201803091718</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/130817949712</id>
+    <published>2018-05-04T09:59:41-04:00</published>
+    <updated>2018-05-04T09:59:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tpu-metal-bumper-s9-6"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302243331.jpg?v=1525442340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/130817949712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074751</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/138488381456</id>
+    <published>2018-04-28T19:52:09-04:00</published>
+    <updated>2018-04-28T19:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-hybrid-galaxy-s9-11"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/c700x420_08d1458e-0d11-4011-919f-7fface3f5df8.jpg?v=1525126637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/138488381456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074683</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/130817753104</id>
+    <published>2018-04-06T18:40:18-04:00</published>
+    <updated>2018-04-06T18:40:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tpu-metal-bumper-s9-4"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/blue_metal_bumper_case.jpg?v=1525118316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/130817753104</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074690</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/130817654800</id>
+    <published>2018-04-06T18:40:16-04:00</published>
+    <updated>2018-04-06T18:40:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tpu-metal-bumper-s9-3"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/c700x420_855c4ad8-c25d-48d8-8eaf-38077e036822.jpg?v=1525117381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/130817654800</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074706</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/130817556496</id>
+    <published>2018-04-06T18:40:15-04:00</published>
+    <updated>2018-04-06T18:40:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tpu-metal-bumper-s9-2"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/teal_metal_bumper_case.jpg?v=1525119039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/130817556496</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074720</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/130817359888</id>
+    <published>2018-04-06T18:40:11-04:00</published>
+    <updated>2018-04-06T18:40:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-tpu-metal-bumper-s9"/>
+    <title>Swift TPU+Metal Bumper S9</title>
+    <s:type>Samsung Galaxy S9 /G960</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/c700x420_3e1243c5-ac62-44db-b3e7-52e1600228a7.jpg?v=1525119246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Samsung Galaxy S9 /G960<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>S9</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/130817359888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>2222231074744</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

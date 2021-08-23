@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/iphone-5-5s-se.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2018-06-30T15:13:21-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401879824</id>
+    <published>2018-06-30T15:13:21-04:00</published>
+    <updated>2018-06-30T15:13:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-301"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE5SHPCTUFFSO072NP.jpg?v=1491259175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patented hybrid design with PC hard-shell and rubberized inner core<br>Soft inner core absorbs shock and cushions the phone from drops and impact<br>Raised front bezel elevates the phone’s screen to prevent tabletop scratches<br>Extended padding protects the vulnerable corners and edges from impact</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401879824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>885126205306</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853968</id>
+    <published>2018-06-30T14:49:54-04:00</published>
+    <updated>2018-06-30T14:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-29"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/51ovXZvfBqL.jpg?v=1491332780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Double layer design ensures your iPhone 5 with dynamic phone protection from impact and abrasions<br>Silicone core with a hard rubberized shell it provides ultimate rugged defense<br>Reinforces vulnerable corners and adds additional side grips for better control of your phone<br>Unique Yellow/Tropical Teal TUFF design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853968</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>885126055451</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853904</id>
+    <published>2018-06-30T14:49:52-04:00</published>
+    <updated>2018-06-30T14:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-28"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WjI5dlphVzFuTVM1eU1UQXVhVzh2VUVsREx6WXlNelF5TkRJNUx6QXZNUzh5TlRBdk5qSXpOREkwTWprdWFuQm4yeGxjM1ZqYTNN.jpg?v=1491332589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Keep your device safe and protected in style.<br>Material: Hard Plastic/Silicone<br>Double-layered cover provides shock-absorption protection from drops and falls.<br>Encases the corners and back of the device to provide secure fit and feel.<br>Full access to all ports and function buttons.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885126152297</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853840</id>
+    <published>2018-06-30T14:49:50-04:00</published>
+    <updated>2018-06-30T14:49:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-27"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/62336059.jpg?v=1491335485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patented hybrid design with PC hard-shell and rubberized inner core<br>Soft inner core absorbs shock and cushions the phone from drops and impact<br>Raised front bezel elevates the phone’s screen to prevent tabletop scratches<br>Extended padding protects the vulnerable corners and edges from impact</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853840</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885126152334</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853776</id>
+    <published>2018-06-30T14:49:47-04:00</published>
+    <updated>2018-06-30T14:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-26"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/B00GAM6UTC_1__18161.1479535113.386.513.jpg?v=1491335380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patented hybrid design with PC hard-shell and rubberized inner core<br>Soft inner core absorbs shock and cushions the phone from drops and impact<br>Raised front bezel elevates the phone’s screen to prevent tabletop scratches<br>Extended padding protects the vulnerable corners and edges from impact</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885126152327</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853712</id>
+    <published>2018-06-30T14:49:47-04:00</published>
+    <updated>2018-06-30T14:49:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-25"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE5SHPCTUFFSO028NP.jpg?v=1491334994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patented hybrid design with PC hard-shell and rubberized inner core<br>Soft inner core absorbs shock and cushions the phone from drops and impact<br>Raised front bezel elevates the phone’s screen to prevent tabletop scratches<br>Extended padding protects the vulnerable corners and edges from impact</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885126152273</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8401853648</id>
+    <published>2018-06-30T14:49:46-04:00</published>
+    <updated>2018-06-30T14:49:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-24"/>
+    <title>Mybat TUFF</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/57_3c0c8aa6-553e-47e5-93b1-c9edbd123cce.jpg?v=1491334776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Patented hybrid design with PC hard-shell and rubberized inner core<br>Soft inner core absorbs shock and cushions the phone from drops and impact<br>Raised front bezel elevates the phone’s screen to prevent tabletop scratches<br>Extended padding protects the vulnerable corners and edges from impact</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8401853648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885126152396</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8376371984</id>
+    <published>2018-06-25T10:14:43-04:00</published>
+    <updated>2018-06-25T10:14:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-bolt-cover-iphone-5-5s-se-8"/>
+    <title>Zizo BOLT Cover iPhone 5/5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/51QKYDjpxuL.jpg?v=1510872645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8376371984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>848588090743</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8376341392</id>
+    <published>2018-06-25T10:14:43-04:00</published>
+    <updated>2018-06-25T10:14:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zizo-bolt-cover-iphone-5-5s-se"/>
+    <title>Zizo BOLT Cover iPhone 5/5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302184808.jpg?v=1500571230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8376341392</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>848588090736</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9917132112</id>
+    <published>2018-06-25T10:04:14-04:00</published>
+    <updated>2018-06-25T10:04:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/mybat-tuff-design-iphone-5-5s-2"/>
+    <title>TUFF Design Iphone 5/5S</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302231580_01.jpg?v=1517160445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 5 Rocky Pebbles/Black TUFF Hybrid Case Cover [Military-Grade Certified]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9917132112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885126453318</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877270736</id>
+    <published>2018-06-25T09:28:36-04:00</published>
+    <updated>2018-06-25T09:28:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se-6"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_text.jpg?v=1528293536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877270736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045317</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877270544</id>
+    <published>2018-06-25T09:28:35-04:00</published>
+    <updated>2018-06-25T09:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se-5"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_fl.jpg?v=1528293476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877270544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045324</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877270416</id>
+    <published>2018-06-25T09:28:35-04:00</published>
+    <updated>2018-06-25T09:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se-4"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_yellow.jpg?v=1528293456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877270416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045287</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877270096</id>
+    <published>2018-06-25T09:28:35-04:00</published>
+    <updated>2018-06-25T09:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se-3"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_pink.jpg?v=1528293438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877270096</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045331</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877269904</id>
+    <published>2018-06-25T09:28:35-04:00</published>
+    <updated>2018-06-25T09:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se-2"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_golden.jpg?v=1528293418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877269904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045270</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877269456</id>
+    <published>2018-06-25T09:28:35-04:00</published>
+    <updated>2018-06-25T09:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/swift-liquid-design-ip5s-se"/>
+    <title>Swift Liquid Design IP5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/iphone_5s_box_black.jpg?v=1528293358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877269456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>2222231045300</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9984616720</id>
+    <published>2018-06-22T12:28:11-04:00</published>
+    <updated>2018-06-22T12:28:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/silk-diamante-myjacket-ip5s-5"/>
+    <title>Silk Diamante MyJacket IP5S/5</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/21z6f15nvnL_1024x1024_682bd02f-9b70-4f98-8810-1ce04b6391d3.jpg?v=1510068230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9984616720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>885126183475</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9493050640</id>
+    <published>2018-06-22T12:26:48-04:00</published>
+    <updated>2018-06-22T12:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-quicksand-design-5s-se-2"/>
+    <title>Rose Gold Electroplating/Drea</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIPHONE5SHPCGTIM035NP.jpg?v=1506265856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            3.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9493050640</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.55</s:price>
+      <s:sku>885126407076</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8499548624</id>
+    <published>2018-06-22T12:19:40-04:00</published>
+    <updated>2018-06-22T12:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc09-iphone5hpkwh"/>
+    <title>Reiko SLCPC09-IPHONE5HPKWH</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/SLCPC09-IPHONE5HPKWH-1.jpg?v=1500929918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">REIKO IPHONE SE/ 5S/ 5 3-IN-1 HYBRID HEAVY DUTY HOLSTER COMBO CASE IN HOT PINK WHITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8499548624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885249330756</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8499549712</id>
+    <published>2018-06-22T12:02:20-04:00</published>
+    <updated>2018-06-22T12:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc09-iphone5rdbk"/>
+    <title>Reiko SLCPC09-IPHONE5RDBK</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ead82cff-7158-4c6f-bda2-b40a50863f09_1.ee7d0d77a47b58cc55aee9ab36a2e95f.jpg?v=1500930143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>REIKO IPHONE SE/ 5S/ 5 3-IN-1 HYBRID HEAVY DUTY HOLSTER COMBO CASE IN BLACK RED</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8499549712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885249318815</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8499549648</id>
+    <published>2018-06-22T12:02:20-04:00</published>
+    <updated>2018-06-22T12:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc09-iphone5ppbk"/>
+    <title>Reiko SLCPC09-IPHONE5PPBK</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_172ceb16-7d3b-4406-a0f3-2297dd1cebb3.jpg?v=1500930219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>REIKO IPHONE SE/ 5S/ 5 3-IN-1 HYBRID HEAVY DUTY HOLSTER COMBO CASE IN PURPLE BLACK</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8499549648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885249318877</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8499549072</id>
+    <published>2018-06-22T12:02:20-04:00</published>
+    <updated>2018-06-22T12:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc09-iphone5nvbk"/>
+    <title>Reiko SLCPC09-IPHONE5NVBK</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_f1d6841a-90ab-4c45-a6db-0a01dacfd720.jpg?v=1500930275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>REIKO IPHONE SE/ 5S/ 5 3-IN-1 HYBRID HEAVY DUTY HOLSTER COMBO CASE IN NAVY BLACK</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8499549072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885249318907</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8706406928</id>
+    <published>2018-06-22T12:00:00-04:00</published>
+    <updated>2018-06-22T12:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-ip5-5s-premium-protector-3"/>
+    <title>REIKO IP5/5S Premium Protector</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_02ff6f48-3ecb-4825-bdfd-3b0164da02c7.jpg?v=1500491961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8706406928</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>885249416351</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9493050960</id>
+    <published>2018-06-22T11:33:59-04:00</published>
+    <updated>2018-06-22T11:33:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-quicksand-design-5s-se-4"/>
+    <title>Quicksand Design 5S/SE</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIPHONE5SHPCGT042NP.jpg?v=1497566030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hearts &amp; Green Quicksand Glitter Hybrid Protector Cover</p><br><p>Durable quicksand hybrid case protects your phone from scratches and scuffs<br>Composed of extra fine glitter mixed with specks of floating stars or hearts in clear liquid case<br>Smooth, transparent and scratch-resistant PC back cover fused with flexible TPU bumper<br>Additional openings made for accessorizing with charms and lanyards<br>Easy access to all ports and buttons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9493050960</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>885126394147</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24900829200</id>
+    <published>2018-06-22T11:25:00-04:00</published>
+    <updated>2018-06-22T11:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-full-glitter-ip5-5s-se"/>
+    <title>Pink Full Glitter Hybrid Prot</title>
+    <s:type>Apple iPhone 5/SE/5S</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302222500.jpg?v=1515451077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 5/SE/5S<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>IPSE</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24900829200</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>885126394215</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

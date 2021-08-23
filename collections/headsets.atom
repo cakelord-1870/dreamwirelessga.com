@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/headsets.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2020-05-30T13:27:26-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4613660803171</id>
+    <published>2020-05-30T13:27:26-04:00</published>
+    <updated>2020-05-30T13:27:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/wireless-foldable-headphones"/>
+    <title>Wireless Foldable Headphones</title>
+    <s:type>Headset</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/HVBT-I66_media-Black-1.jpg?v=1590861415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Wireless Headphones Bluetooth Headphone </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4613660803171</id>
+      <title>Black</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>6939119017859</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4613660803171</id>
+      <title>Blue</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>6939119018276</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1319586758779</id>
+    <published>2019-09-24T14:09:16-04:00</published>
+    <updated>2019-09-24T14:09:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/ontrion-b305-business-headset"/>
+    <title>OnTrion B305 Business Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>ONTRION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/bbef4e80-a9c7-4598-a483-d2ab31b6938a_1.33d45c457ff85ed19da12de339d6d1f3.jpeg?v=1569348663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ONTRION<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLUETOOTH</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1319586758779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>700867536918</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3955724484707</id>
+    <published>2019-07-28T10:52:32-04:00</published>
+    <updated>2019-07-28T10:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/sport-wireless-bluetooth-earbuds-2"/>
+    <title>Sport Wireless Bluetooth Earbuds</title>
+    <s:type>Headset</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/dsmqey1561379883972.jpg?v=1564325592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TWS-6 Sports &amp; Outdoor Wireless Sport &amp; Fitness Bluetooth 5.0 Stereo Red/Black</p>
+<p>Call-Music-Active</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3955724484707</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>004623200229</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3955723665507</id>
+    <published>2019-07-28T10:51:03-04:00</published>
+    <updated>2019-07-28T10:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/sport-wireless-bluetooth-earbuds-1"/>
+    <title>Sport Wireless Bluetooth Earbuds</title>
+    <s:type>Headset</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/nzzdnz1561379883231.jpg?v=1564325492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TWS-6 Sports &amp; Outdoor Wireless Sport &amp; Fitness Bluetooth 5.0 Stereo Black</p>
+<p><span>Call-Music-Active</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3955723665507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>023120323255</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3955723468899</id>
+    <published>2019-07-28T10:43:52-04:00</published>
+    <updated>2019-07-28T10:43:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/sport-wireless-bluetooth-earbuds"/>
+    <title>Sport Wireless Bluetooth Earbuds</title>
+    <s:type>Headset</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/tvoqmd1561379882754.jpg?v=1564325451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TWS-6 Sports &amp; Outdoor Wireless Sport &amp; Fitness Bluetooth 5.0 Stereo Blue/Black</p>
+<p><span>Call-Music-Active</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3955723468899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>076130210220</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3574149382243</id>
+    <published>2019-05-19T10:42:28-04:00</published>
+    <updated>2019-05-19T10:42:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/bluetooth-wireless-tone-pro-stereo-headset"/>
+    <title>Bluetooth Wireless TONE PRO Stereo Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/51Ocn84pEmL._SX679.jpg?v=1558280664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE PRO STEREO HEADSET IN BLUE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3574149382243</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>815425020027</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3570163449955</id>
+    <published>2019-05-16T09:12:50-04:00</published>
+    <updated>2019-05-16T09:12:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/universal-bluetooth-headset"/>
+    <title>Universal Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/55.JPG?v=1558012902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            18.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">BTH-068 Bluetooth Wireless Gaming Headset Games Headphone BT Earphone</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3570163449955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.55</s:price>
+      <s:sku>bth-068</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540791730275</id>
+    <published>2019-03-14T15:15:19-04:00</published>
+    <updated>2019-03-14T15:15:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-headset-hbs-750-bluetooth-headset"/>
+    <title>LG Headset HBS-750 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/41hqgGbfr5L._SL160.jpg?v=1552592169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG Electronics HBS-750 TONE PRO Wireless Stereo Headset Grey</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540791730275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>874305006605</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540783145059</id>
+    <published>2019-03-14T15:15:13-04:00</published>
+    <updated>2019-03-14T15:15:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-hbs-750-bluetooth-headset"/>
+    <title>LG HBS-750 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/LOMHBS750BK.JPG?v=1552591126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG Electronics HBS-750 Tone Pro Wireless Bluetooth Stereo Headset</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540783145059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>874305006315</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540794187875</id>
+    <published>2019-03-14T15:15:06-04:00</published>
+    <updated>2019-03-14T15:15:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-pro-hbs-750-bluetooth-headset-2"/>
+    <title>LG Tone Pro HBS 750 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/shopping_1.png?v=1552592469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE PRO HBS-750</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540794187875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>874305006322</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540793237603</id>
+    <published>2019-03-14T15:15:02-04:00</published>
+    <updated>2019-03-14T15:15:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-pro-hbs-750-bluetooth-headset-1"/>
+    <title>LG Tone Pro HBS-750 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/shopping_189638f4-8512-43ed-a423-eae5d833354f.png?v=1552592358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE PRO HBS-750</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540793237603</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>874305006865</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540795924579</id>
+    <published>2019-03-14T15:15:01-04:00</published>
+    <updated>2019-03-14T15:15:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-triumph-bluetooth-headset"/>
+    <title>LG Tone Triumph Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/medium04.jpg?v=1552592741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE TRIUMPH™ Bluetooth® Wireless Stereo Headset</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540795924579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>815425020140</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540794876003</id>
+    <published>2019-03-14T15:15:01-04:00</published>
+    <updated>2019-03-14T15:15:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-ultra-hbs-800-bluetooth-headset"/>
+    <title>LG Tone Ultra HBS-800 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/shopping_2.png?v=1552592576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE ULTRA HBS-800</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540794876003</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>8808992099475</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540883185763</id>
+    <published>2019-03-14T15:14:59-04:00</published>
+    <updated>2019-03-14T15:14:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-pro-bluetooth-headset"/>
+    <title>LG TONE PRO HBS-780 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/medium02.jpg?v=1552599339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE PRO® Bluetooth® Wireless Stereo Headset</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540883185763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>815425022144</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540818894947</id>
+    <published>2019-03-14T15:14:57-04:00</published>
+    <updated>2019-03-14T15:14:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-triumph-bluetooth-headset-1"/>
+    <title>LG Tone Triumph Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/medium01_1.jpg?v=1552594629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG TONE TRIUMPH™ Bluetooth® Wireless Stereo Headset</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540818894947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>815425022236</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540586799203</id>
+    <published>2019-03-14T11:06:34-04:00</published>
+    <updated>2019-03-14T11:06:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-hbs-835s-tone-ultra-se-bluetooth-headset"/>
+    <title>LG HBS-835S Tone Ultra SE Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/3_e545d65e-5ca8-4c9d-b86a-81daed47485d.JPG?v=1552576901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            92.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG HBS-835S Tone Ultra SE Bluetooth Headset - Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540586799203</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.95</s:price>
+      <s:sku>815425020706</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540579983459</id>
+    <published>2019-03-14T11:06:31-04:00</published>
+    <updated>2019-03-14T11:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-hbs-835-tone-ultra-bluetooth-headset-1"/>
+    <title>LG HBS-835 Tone Ultra Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/3_2e5353ae-fa66-4c15-9288-c8c9a2b006b6.JPG?v=1552576351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            71.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG HBS-835 Tone Ultra Bluetooth Headset - Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540579983459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.00</s:price>
+      <s:sku>815425020720</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540578312291</id>
+    <published>2019-03-14T11:06:26-04:00</published>
+    <updated>2019-03-14T11:06:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-hbs-835-tone-ultra-bluetooth-headset"/>
+    <title>LG HBS-835 Tone Ultra Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/2_6c124216-1dc5-4570-a23e-9a71909d6378.JPG?v=1552576169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            71.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LG HBS-835 Tone Ultra Bluetooth Headset - Black</p>
+<p>Enjoy high-quality audio and remarkable voice clarity with the LG TONE ULTRA™ featuring JBL® Signature Sound. As a premium Bluetooth® wireless stereo headset, the LG TONE ULTRA™ is perfect for on-the-go listening with retractable earbuds, dual MEMS microphones and Advanced Quad-Layer Speaker Technology™. The headset fits easily around your neck, delivering a comfortable and powerful audio performance you can take with you anywhere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540578312291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.00</s:price>
+      <s:sku>815425020713</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540769316963</id>
+    <published>2019-03-14T11:06:20-04:00</published>
+    <updated>2019-03-14T11:06:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/jbl-live-200-bluetooth-headset"/>
+    <title>JBL Live 200 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/0b50bc1e-4f82-4c8c-9b35-6c2f755efe8f_1.5cdd4b3ff61ad6fdebfd4bf595b21e51.png?v=1552589588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JBL Live 200 BT Wireless In-Ear Neckband Headphones with Three-Button Remote and Microphone (Green)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540769316963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>050036346139</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540726227043</id>
+    <published>2019-03-14T11:06:20-04:00</published>
+    <updated>2019-03-14T11:06:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/noisehush-n780-bluetooth-headset-truck-driver-set"/>
+    <title>NoiseHush N780 Bluetooth Headset Truck Driver Set</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/N780_11911_1.jpg?v=1552586641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">NoiseHush N780 Over-The-Head Multi-Point Bluetooth Headset with Charging Base<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540726227043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>633755119118</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540773642339</id>
+    <published>2019-03-14T11:06:19-04:00</published>
+    <updated>2019-03-14T11:06:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/jbl-live-200-bt-bluetooth-headset"/>
+    <title>JBL Live 200 BT Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/6253458_sd.jpg?v=1552590079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">JBL - LIVE 200BT Wireless In-Ear Headphones - Hero Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540773642339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>050036346108</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540775542883</id>
+    <published>2019-03-14T11:06:15-04:00</published>
+    <updated>2019-03-14T11:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/jbl-live-200-blutooth-headset"/>
+    <title>JBL Live 200 Blutooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/6253436_rd.jpg?v=1552590297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">JBL - LIVE 200BT Wireless In-Ear Headphones - White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540775542883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>050036346122</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540777214051</id>
+    <published>2019-03-14T11:06:11-04:00</published>
+    <updated>2019-03-14T11:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/jbl-live-200-bluetooth-headset-2"/>
+    <title>JBL LIVE 200 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/JBL-Live-200-1.jpg?v=1608302195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">JBL Live 200BT<br>Wireless Bluetooth® neckband earbuds</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540777214051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>050036346115</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540777181283</id>
+    <published>2019-03-14T11:06:11-04:00</published>
+    <updated>2019-03-14T11:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/jbl-live-200-bluetooth-headset-1"/>
+    <title>JBL LIVE 200 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/g109L200BTL-F.jpg?v=1552590506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            52.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">JBL Live 200BT<br>Wireless Bluetooth® neckband earbuds</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540777181283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.20</s:price>
+      <s:sku>050036346115</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1540551376995</id>
+    <published>2019-03-14T10:31:39-04:00</published>
+    <updated>2019-03-14T10:31:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-tone-infinim-hbs-900-bluetooth-headset-1"/>
+    <title>LG Tone Infinim HBS-900 Bluetooth Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>C2 WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/img.jpg?v=1552574499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C2 WIRELESS<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG Gold TONE INFINIM Wireless Bluetooth Earphone Headset with Mic (CLR-14210)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1540551376995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>874305007305</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+</feed>

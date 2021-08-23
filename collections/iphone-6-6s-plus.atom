@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/iphone-6-6s-plus.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2019-08-24T14:48:42-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3995241611363</id>
+    <published>2019-08-24T14:48:42-04:00</published>
+    <updated>2019-08-24T14:48:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-plus-privacy-tempered-glass"/>
+    <title>Apple iPhone 6 Plus Privacy Tempered Glass</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/SCP16-IPHONE6-1_2.jpg?v=1566672732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            2.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus - Privacy Tempered Glass Anti-Spy</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Privacy</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3995241611363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>395641201993</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3927814209635</id>
+    <published>2019-07-09T11:00:13-04:00</published>
+    <updated>2019-07-09T11:00:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-plus-waterproof-case-cover"/>
+    <title>Apple iPhone 6 Plus Waterproof Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/14102161bb.jpg?v=1562685365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus  waterproof case hardcover shock resistant dust-proof in Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3927814209635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>waterproof</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3517652238435</id>
+    <published>2019-04-30T13:19:19-04:00</published>
+    <updated>2019-04-30T13:19:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6plus-tpu-design-case-cover-2"/>
+    <title>Apple iPhone 6Plus TPU Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/Y_0ca939bf-e743-4c33-809d-5fafde0f6429.JPG?v=1556650165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus TPU Design Case Cover in Yellow</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3517652238435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>301901251134</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3443357679715</id>
+    <published>2019-04-07T17:23:25-04:00</published>
+    <updated>2019-04-07T17:23:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-plus-tempered-glass-cover"/>
+    <title>Apple iPhone 6/6S Plus Tempered Glass Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/61PgOt_qilL._SX569.jpg?v=1554672633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6/6S Plus Full Cover Tempered Glass Cover in White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3443357679715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.30</s:price>
+      <s:sku>2222231125392</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1561277661283</id>
+    <published>2019-03-29T12:37:00-04:00</published>
+    <updated>2019-03-29T12:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-plus-hybrid-tuff-design-case-cover"/>
+    <title>Apple iPhone 6/6S Plus Hybrid TUFF Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP6PLUSHPCTUFFIM619WP.jpg?v=1553877636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            5.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Camouflage/Red TUFF Hybrid Phone Protector Cover [Military-Grade Certified](with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1561277661283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>885126523189</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1557623603299</id>
+    <published>2019-03-28T08:51:35-04:00</published>
+    <updated>2019-03-28T08:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-6s-plus-hybrid-brushed-tuff-case-cover"/>
+    <title>Apple iPhone 6/6S Plus Hybrid Brushed TUFF Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP6PLUSHPCTUFFTROSO615NP.jpg?v=1553782171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus / 6s Plus TUFF Trooper Hybrid Protector Cover - Dark Blue / Black<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1557623603299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.15</s:price>
+      <s:sku>885126346740</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1323102175355</id>
+    <published>2019-02-19T14:59:22-05:00</published>
+    <updated>2019-02-19T14:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6-hybrid-glitter-wallet"/>
+    <title>iPhone 6 Hybrid Glitter Wallet</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONE6MYJKDM104WP.jpg?v=1532295546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eiffel Tower Diamante MyJacket Wallet(with Diamante Belt)(DM104) (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1323102175355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>885126318013</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489165549667</id>
+    <published>2019-02-07T15:52:46-05:00</published>
+    <updated>2019-02-07T15:52:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-plus-heavy-duty-marble-case-cover-6"/>
+    <title>Apple iPhone 8/7/6 Plus Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_b6526d1d-826d-4daa-abc3-73245714c131.jpg?v=1549573309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marble Clear Defender Transparent Case For iPhone 8/7/6 Plus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489165549667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>528417002269</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489164796003</id>
+    <published>2019-02-07T15:52:45-05:00</published>
+    <updated>2019-02-07T15:52:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-plus-heavy-duty-marble-case-cover-4"/>
+    <title>Apple iPhone 8/7/6 Plus Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_2_07623735-661b-45ff-bfa3-06046ec0ac0c.jpg?v=1549573207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marble Clear Defender Transparent Case For iPhone 8/7/6 Plus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489164796003</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>710257115524</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489166303331</id>
+    <published>2019-02-07T15:52:43-05:00</published>
+    <updated>2019-02-07T15:52:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-plus-heavy-duty-marble-case-cover-8"/>
+    <title>Apple iPhone 8/7/6 Plus Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_1_94be4b0d-712e-43c0-99cd-e252affae4d6.jpg?v=1549573444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marble Clear Defender Transparent Case For iPhone 8/7/6 Plus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489166303331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>741784010440</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1489162567779</id>
+    <published>2019-02-07T11:59:40-05:00</published>
+    <updated>2019-02-07T11:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-plus-heavy-duty-marble-case-cover-1"/>
+    <title>Apple iPhone 8/7/6 Plus Heavy Duty Marble Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_4_d5ed1fe9-bd93-41f4-89df-55c26034f0e0.jpg?v=1549572953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marble Clear Defender Transparent Case For iPhone 8/7/6 Plus</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1489162567779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>711520115524</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9493053648</id>
+    <published>2019-01-12T16:29:23-05:00</published>
+    <updated>2019-01-12T16:29:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-quicksand-design-ip6-2"/>
+    <title>Apple iPhone 6/6S Plus Glitter TPU Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIP6PLUSHPCGTIM014NP.jpg?v=1498056634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eiffel Tower &amp; Pink Hearts Quicksand Glitter Hybrid Protector Cover</p>
+<br>
+<p>Durable quicksand hybrid case protects your phone from scratches and scuffs<br>Composed of extra fine glitter mixed with specks of floating stars or hearts in clear liquid case<br>Smooth, transparent and scratch-resistant PC back cover fused with flexible TPU bumper<br>Additional openings made for accessorizing with charms and lanyards<br>Easy access to all ports and buttons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9493053648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>885126416368</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9493053968</id>
+    <published>2019-01-12T16:28:22-05:00</published>
+    <updated>2019-01-12T16:28:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/asmyna-quicksand-design-ip6-4"/>
+    <title>Apple iPhone 6/6S Plus Glitter TPU Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NIP6PLUSHPCGTIM011NP.jpg?v=1498056823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Dreamcatcher &amp; Gold Stars Quicksand Glitter Hybrid Protector Cover</p>
+<br>
+<p>Durable quicksand hybrid case protects your phone from scratches and scuffs<br>Composed of extra fine glitter mixed with specks of floating stars or hearts in clear liquid case<br>Smooth, transparent and scratch-resistant PC back cover fused with flexible TPU bumper<br>Additional openings made for accessorizing with charms and lanyards<br>Easy access to all ports and buttons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9493053968</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>885126416351</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1472772046947</id>
+    <published>2019-01-06T11:39:48-05:00</published>
+    <updated>2019-01-06T11:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-plus-hybrid-design-case-cover"/>
+    <title>Apple iPhone 6 Plus Hybrid Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP6PLUSHPCTUFFMERIM014WP-1000.jpg?v=1546794519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            2.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MYBAT Urban Camouflage/Iron Gray TUFF Merge Hybrid Protector Cover [Military-Grade Certified] (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1472772046947</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.65</s:price>
+      <s:sku>885126285032</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1472658636899</id>
+    <published>2019-01-05T12:46:03-05:00</published>
+    <updated>2019-01-05T12:46:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-8-7-6-plus-tuff-design-case-cover-3"/>
+    <title>Apple iPhone 6S/6 Plus TUFF Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/3365941.jpg?v=1546720783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus / 6S Plus MyBat TUFF Hybrid Phone Protector Cover - Red and White Roses / Red</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1472658636899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>885126495004</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1472658931811</id>
+    <published>2019-01-05T12:45:59-05:00</published>
+    <updated>2019-01-05T12:45:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6s-6-plus-hybrid-tuff-design-case-cover"/>
+    <title>Apple iPhone 6s/6 Plus Hybrid TUFF Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP6PLUSHPCTUFFIM001WP.jpg?v=1546720951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apple iPhone 6 Plus / 6s Plus MyBat TUFF Hybrid Phone Protector Cover - Hibiscus Flower Romance / Orange</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1472658931811</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>885126215510</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1458201952355</id>
+    <published>2018-11-21T13:14:41-05:00</published>
+    <updated>2018-11-21T13:14:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6s-plus-tempered-glass-cover"/>
+    <title>Apple iPhone 6s Plus Tempered Glass Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l640_1_d93900d8-9e5a-4adf-ba31-6e293e5d2ff8.jpg?v=1542829942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6S Tempered Glass Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1458201952355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>6666666666284</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1450825318499</id>
+    <published>2018-11-03T14:44:42-04:00</published>
+    <updated>2018-11-03T14:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-plus-design-case-cover"/>
+    <title>Apple iPhone 6 Plus Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP7PLUSHPCTUFFIM617WP-1.jpg?v=1541270803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6 Plus / 6S Plus / 7 Plus / 8 Plus MyBat TUFF Hybrid Phone Protector Cover - Daisy Field / Yellow</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1450825318499</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.60</s:price>
+      <s:sku>885126523103</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1447908343907</id>
+    <published>2018-10-29T14:13:15-04:00</published>
+    <updated>2018-10-29T14:13:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6s-plus-hybrid-holster-combo-clip"/>
+    <title>Apple iPhone 6S Plus Hybrid Holster Combo Clip</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302248018_01.jpg?v=1540837029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            6.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6S Plus - Rose Gold/Rose Gold 3-in-1 Storm Tank Hybrid Case Cover Combo (with Black Holster) (Tempered Glass)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1447908343907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.90</s:price>
+      <s:sku>885126519007</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1447906541667</id>
+    <published>2018-10-29T14:08:25-04:00</published>
+    <updated>2018-10-29T14:08:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6s-plus-wallet-design-case-cover"/>
+    <title>Apple iPhone 6S Plus Wallet Design Case Cover</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302253180_01.jpg?v=1540836637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone 6S Plus - Pink Marble 3D Butterfly Flower MyJacket Wallet Case with Extra Card Slots</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1447906541667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>885126541343</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1420012912739</id>
+    <published>2018-08-15T14:26:55-04:00</published>
+    <updated>2018-08-15T14:26:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/iphone-6-plus-hybrid-grip-case"/>
+    <title>iPhone 6 Plus Hybrid Grip Case</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IP6PLUSHPCFSSO643WP.jpg?v=1534357802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MYBAT Rose Gold Dots Textured/Transparent Clear Fusion Protector Cover (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1420012912739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>885126471596</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1323147133051</id>
+    <published>2018-07-23T15:55:59-04:00</published>
+    <updated>2018-07-23T15:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-plus-hybrid-glitter-case"/>
+    <title>Apple iPhone 6 Plus Hybrid Glitter Case</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302245002.jpg?v=1532375928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>Apple iPhone 6 Plus - Rose Gold Electroplating/Butterflies in Spring Flowers/Silver Flowing Sparkles TUFF Quicksand Glitter Lite Hybrid Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1323147133051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885126497503</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/8605923920</id>
+    <published>2018-06-30T16:17:39-04:00</published>
+    <updated>2018-06-30T16:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-dtpu03-iph6plsst"/>
+    <title>Reiko DTPU03-IPH6PLSST</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/DTPU03-IPH6PLSST-1.jpg?v=1500301659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6 PLUS/ 6S PLUS STRIPE PATTERN TPU CASE WITH ROTATING RING STAND HOLDER</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Design</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/8605923920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>885249746496</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/25108283408</id>
+    <published>2018-06-30T11:30:04-04:00</published>
+    <updated>2018-06-30T11:30:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc31-iph6pls-1"/>
+    <title>Reiko SLCPC31-IPH6PLS</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/c44bade9-b184-41b0-b9b9-f64f0de951f8_1.f2c253216f608eab5f6012b65c7fc818.jpg?v=1530372490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6 PLUS/ 6S PLUS RUGGED METAL TEXTURE HYBRID CASE WITH RIDGED BACK IN BLACK ROSE GOLD</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/25108283408</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>885249721547</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9877253264</id>
+    <published>2018-06-30T11:30:03-04:00</published>
+    <updated>2018-06-30T11:30:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-slcpc31-iph6pls"/>
+    <title>Reiko SLCPC31-IPH6PLS</title>
+    <s:type>Apple iPhone 6s Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l640_126d1d70-2445-4079-b624-d5bbabfb6b93.jpg?v=1530372381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 6s Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">iPhone 6/6S Plus Hybrid Case Rugged Metal Texture w/ Ridged Back Cover Gray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9877253264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>885249721516</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+</feed>

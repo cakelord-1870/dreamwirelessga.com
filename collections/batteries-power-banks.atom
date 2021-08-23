@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/batteries-power-banks.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2021-08-11T09:34:53-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/6903773331637</id>
+    <published>2021-08-11T09:34:53-04:00</published>
+    <updated>2021-08-11T09:34:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/esoulk-10000mah-power-bank"/>
+    <title>Esoulk 10000mah Power Bank</title>
+    <s:type>Power Bank</s:type>
+    <s:vendor>ESOULK WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ep27-bk--01.jpg?v=1628688893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ESOULK WIRELESS<br>
+        <strong>Type: </strong>Power Bank<br>
+        <strong>Price: </strong>
+            14.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Slim Power Bank</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6903773331637</id>
+      <title>Black</title>
+      <s:price currency="USD">14.15</s:price>
+      <s:sku>703557155734</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6903773331637</id>
+      <title>White</title>
+      <s:price currency="USD">14.15</s:price>
+      <s:sku>703557155741</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/6300834594997</id>
+    <published>2021-02-01T12:21:21-05:00</published>
+    <updated>2021-02-01T12:21:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/esoulk-universal-power-bank-6000mah"/>
+    <title>Esoulk Universal Power Bank 6000mah</title>
+    <s:type>Power Bank</s:type>
+    <s:vendor>ESOULK WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ep25-bk-01.jpg?v=1612200082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ESOULK WIRELESS<br>
+        <strong>Type: </strong>Power Bank<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Slim 6000mah Universal Power Bank Compact &amp; Super Lightweight</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6300834594997</id>
+      <title>Black</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>712836440171</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6300834594997</id>
+      <title>White</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>712836440188</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/6300759556277</id>
+    <published>2021-02-01T11:12:17-05:00</published>
+    <updated>2021-02-01T11:12:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/esoulk-universal-power-bank-3000mah"/>
+    <title>Esoulk Universal Power Bank 3000Mah</title>
+    <s:type>Power Bank</s:type>
+    <s:vendor>ESOULK WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ep24p-bk-01.jpg?v=1612195939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ESOULK WIRELESS<br>
+        <strong>Type: </strong>Power Bank<br>
+        <strong>Price: </strong>
+            5.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Slim Universal Power Bank 3000mah Compact &amp; Super Lightweight</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6300759556277</id>
+      <title>Black</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>712836440157</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6300759556277</id>
+      <title>White</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>712836440164</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4674835644515</id>
+    <published>2020-08-05T10:10:54-04:00</published>
+    <updated>2020-08-05T10:10:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/universal-portable-charger-multiple-outputs"/>
+    <title>Universal Portable Charger Multiple Outputs</title>
+    <s:type>Portable Charger</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/611joEl-uyL._AC_SL1000.jpg?v=1596636654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Portable Charger<br>
+        <strong>Price: </strong>
+            14.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3A Charging Charge compatible devices at high speed with 5V 3A output, charge 3 USB-A devices simultaneously. Recharge your portable charger via Lightning USB-C or Micro USB, no more extra usb cables you have to carry, charge your device and recharge the power bank just by using 1 usb cable.<br>Large Capacity: 20000mAh of power charges</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4674835644515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.30</s:price>
+      <s:sku>X001VRHC5D</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3925644738659</id>
+    <published>2019-07-07T17:20:20-04:00</published>
+    <updated>2019-07-07T17:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-magnetic-battery-case-cover"/>
+    <title>Apple iPhone 6/7/8 Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8-02.jpg?v=1562534570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 3000 mAh Magnetic Battery Cover iPhone 6/ 7/ 8 White</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3925644738659</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944530</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3867885961315</id>
+    <published>2019-06-28T10:31:41-04:00</published>
+    <updated>2019-06-28T10:31:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-xs-power-case-cover"/>
+    <title>Apple iPhone X/ XS Power Case Cover</title>
+    <s:type>Apple iPhone XS 5.8&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP16-12_64076322-7943-47f0-af58-387f2a441f69.jpg?v=1561732463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS 5.8&quot;<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone X/ XS 4000mAh Magnetic Battery Cover GOLD</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3867885961315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438772</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3867884945507</id>
+    <published>2019-06-28T10:28:09-04:00</published>
+    <updated>2019-06-28T10:28:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-xs-power-bank-case-cover"/>
+    <title>Apple iPhone X/XS Power   Case Cover</title>
+    <s:type>Apple iPhone XS 5.8&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP15-06.jpg?v=1561732277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS 5.8&quot;<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone X/ XS 4000mAh Magnetic Battery Cover  ROSE GOLD</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3867884945507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438796</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864008949859</id>
+    <published>2019-06-26T15:59:49-04:00</published>
+    <updated>2019-06-26T15:59:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-power-bank-case-2"/>
+    <title>Apple iPhone 6/7/8 Power Bank Case</title>
+    <s:type>Apple iPhone 8 4.7&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8P-02_0b47834b-81fb-4f91-a470-db1b064c6e76.jpg?v=1561579223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 4.7&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PKG 3000 mAh Magnetic Battery Cover iPhone 6/ 7/ 8 White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864008949859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944516</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864008556643</id>
+    <published>2019-06-26T15:58:09-04:00</published>
+    <updated>2019-06-26T15:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-power-bank-case-1"/>
+    <title>Apple iPhone 6/7/8 Power Bank Case</title>
+    <s:type>Apple iPhone 8 4.7&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8-06_9c4151a3-3f6d-4fde-8285-fabfacb5abe6.jpg?v=1561579111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 4.7&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PKG 3000 mAh Magnetic Battery Cover iPhone 6/ 7/ 8 Rose</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864008556643</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944547</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864006787171</id>
+    <published>2019-06-26T15:54:34-04:00</published>
+    <updated>2019-06-26T15:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-plus-power-case-2"/>
+    <title>Apple iPhone 6/7/8 Plus Power Case</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8-06.jpg?v=1561578929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone PKG 4200 mAh Magnetic Battery Cover iPhone 6/7/ 8 Plus Rose</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864006787171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944585</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864006492259</id>
+    <published>2019-06-26T15:53:08-04:00</published>
+    <updated>2019-06-26T15:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-plus-power-case-1"/>
+    <title>Apple iPhone 6/7/8 Plus Power Case</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8P-12.jpg?v=1561578839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone PKG 4200 mAh Magnetic Battery Cover iPhone 6/7/ 8 Plus GOLD</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864006492259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944561</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864006361187</id>
+    <published>2019-06-26T15:18:09-04:00</published>
+    <updated>2019-06-26T15:18:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-plus-power-case"/>
+    <title>Apple iPhone 6/7/8 Plus Power Case</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8P-02.jpg?v=1561578792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone PKG 4200 mAh Magnetic Battery Cover iPhone 6/7/ 8 Plus WHITE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864006361187</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944578</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3864008458339</id>
+    <published>2019-06-26T15:18:08-04:00</published>
+    <updated>2019-06-26T15:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-6-7-8-power-bank-case"/>
+    <title>Apple iPhone 6/7/8 Power Bank Case</title>
+    <s:type>Apple iPhone 8 4.7&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8P-12_971d4dd3-8cc6-4693-afab-d6f76d37a008.jpg?v=1561579080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 4.7&quot;<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PKG 3000 mAh Magnetic Battery Cover iPhone 6/ 7/ 8 Gold</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3864008458339</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944523</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859317063779</id>
+    <published>2019-06-21T14:33:50-04:00</published>
+    <updated>2019-06-21T14:33:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-magnetic-battery-case-cover-3"/>
+    <title>Apple iPhone 6/7/8 Plus Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-IP8-01.jpg?v=1561142138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4200 mAh Magnetic Battery Cover iPhone 6/7/8 Plus Black</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859317063779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>655036944554</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859315359843</id>
+    <published>2019-06-21T14:29:18-04:00</published>
+    <updated>2019-06-21T14:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-magnetic-battery-case-cover-2"/>
+    <title>Apple iPhone XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP17-12.jpg?v=1561141775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 5000mAh Magnetic Battery Cover iPhone XS MAX GOLD</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859315359843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>712836438857</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859315130467</id>
+    <published>2019-06-21T14:27:57-04:00</published>
+    <updated>2019-06-21T14:27:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-magnetic-battery-case-cover-1"/>
+    <title>Apple iPhone XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP17-06.jpg?v=1561141701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 5000mAh Magnetic Battery Cover iPhone XS MAX ROSE GOLD</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859315130467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>712836438871</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859314835555</id>
+    <published>2019-06-21T14:26:43-04:00</published>
+    <updated>2019-06-21T14:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-magnetic-battery-case-cover"/>
+    <title>Apple iPhone XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP17-02.jpg?v=1561141633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 5000mAh Magnetic Battery Cover iPhone XS MAX WHITE</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859314835555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>712836438864</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859314245731</id>
+    <published>2019-06-21T14:24:10-04:00</published>
+    <updated>2019-06-21T14:24:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/copy-of-apple-iphone-xr-magnetic-battery-case-cover"/>
+    <title>Apple iPhone XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP17-01.jpg?v=1561141578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 5000mAh Magnetic Battery Cover iPhone XS MAX BLACK</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859314245731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>712836438840</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859313066083</id>
+    <published>2019-06-21T14:21:11-04:00</published>
+    <updated>2019-06-21T14:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xr-magnetic-battery-case-cover-2"/>
+    <title>Apple iPhone XR Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP16-06.jpg?v=1561141316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone XR ROSE GOLD<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859313066083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438833</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859312672867</id>
+    <published>2019-06-21T14:19:37-04:00</published>
+    <updated>2019-06-21T14:19:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xr-magnetic-battery-case-cover-1"/>
+    <title>Apple iPhone XR Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP16-12.jpg?v=1561141197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone XR GOLD<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859312672867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438819</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859311755363</id>
+    <published>2019-06-21T14:16:56-04:00</published>
+    <updated>2019-06-21T14:16:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xr-magnetic-battery-case-cover"/>
+    <title>Apple iPhone XR Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP16-01.jpg?v=1561141084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone XR BLACK<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859311755363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438802</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859307987043</id>
+    <published>2019-06-21T14:09:41-04:00</published>
+    <updated>2019-06-21T14:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-xs-magnetic-battery-case-cover-2"/>
+    <title>Apple iPhone XR Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP16-02.jpg?v=1561140951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            25.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone XR WHTIE<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859307987043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.75</s:price>
+      <s:sku>712836438826</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859307069539</id>
+    <published>2019-06-21T14:07:54-04:00</published>
+    <updated>2019-06-21T14:07:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-xs-magnetic-battery-case-cover-1"/>
+    <title>Apple iPhone X/ XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP15-01.jpg?v=1561140520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone X/ XS BLACK</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859307069539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>712836438765</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3859306872931</id>
+    <published>2019-06-21T13:02:46-04:00</published>
+    <updated>2019-06-21T13:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-xs-magnetic-battery-case-cover"/>
+    <title>Apple iPhone X/ XS Magnetic Battery Case Cover</title>
+    <s:type>Power Bank Case</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/T2-PWC-EP15-02.jpg?v=1561140456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Power Bank Case<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>PKG 4000mAh Magnetic Battery Cover iPhone X/ XS WHITE</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3859306872931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>712836438789</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3566572273763</id>
+    <published>2019-05-13T14:31:57-04:00</published>
+    <updated>2019-05-13T14:31:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/universal-power-banks-8000mah"/>
+    <title>Universal Power Banks 8000mAh</title>
+    <s:type>Universal Chargers</s:type>
+    <s:vendor>ONTRION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ONT-PWR-38264-2T.jpg?v=1557775017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ONTRION<br>
+        <strong>Type: </strong>Universal Chargers<br>
+        <strong>Price: </strong>
+            20.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Power Bank 8000mAh 2 Outputs Wireless Charging SlimLife Edition</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3566572273763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.50</s:price>
+      <s:sku>700867538264</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+</feed>

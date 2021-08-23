@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/zte-blade-x-z965-cricket.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2018-11-11T16:48:23-05:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1454030356579</id>
+    <published>2018-11-11T16:48:23-05:00</published>
+    <updated>2018-11-11T16:48:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zte-grand-x4-hybrid-case-cover-1"/>
+    <title>ZTE Grand X4 Hybrid Case Cover</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1IONC-ZTEX4-PKCL.jpg?v=1541973292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Grand X4 - Zizo ION Triple Layered Hybrid Cover w/ Tempered Glass Screen Protector - Pink / Clear</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1454030356579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488265346</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1454028521571</id>
+    <published>2018-11-11T15:27:18-05:00</published>
+    <updated>2018-11-11T15:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zte-grand-x4-hybrid-case-cover"/>
+    <title>ZTE Grand X4 Hybrid Case Cover</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IONC-ZTEX4-GDCL-2.jpg?v=1541972867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Grand X4 - Zizo ION Triple Layered Hybrid Cover w/ Tempered Glass Screen Protector - Gold / Clear</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1454028521571</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488265353</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1452580601955</id>
+    <published>2018-11-07T14:40:04-05:00</published>
+    <updated>2018-11-07T14:40:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zte-grand-x4-glitter-design-case-cover"/>
+    <title>ZTE Grand X4 Glitter Design Case Cover</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NZTEX4HPCGTIM014NP.jpg?v=1541620081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Eiffel Tower &amp; Pink Hearts Quicksand Glitter Hybrid Protector Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1452580601955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>885126496612</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1452587188323</id>
+    <published>2018-11-07T14:39:59-05:00</published>
+    <updated>2018-11-07T14:39:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zte-grand-x-4-glitter-design-case-cover"/>
+    <title>ZTE Grand X 4 Glitter Design Case Cover</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/NZTEX4HPCGTIM011NP.jpg?v=1541621378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dreamcatcher &amp; Gold Stars Quicksand Glitter Hybrid Protector Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1452587188323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>885126496629</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/9984537744</id>
+    <published>2018-08-15T16:25:41-04:00</published>
+    <updated>2018-08-15T16:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/aimo-holster-combo-grand-x4"/>
+    <title>Holster Combo+ GRAND X4</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>AIMO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ZTEX4PCAB301S.jpg?v=1534364659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AIMO WIRELESS<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Grand X4 / Z956 / Z971 Blade Spark / Z965 GRAND X 4 Black Armor w/stand, Black skin&amp; Black Belt Clip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/9984537744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>888790209083</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1420082118755</id>
+    <published>2018-08-15T16:22:42-04:00</published>
+    <updated>2018-08-15T16:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/zte-grand-x4-holster-combo-clip-case-cover"/>
+    <title>ZTE Grand X4 Holster Combo Clip Case Cover</title>
+    <s:type>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4</s:type>
+    <s:vendor>AIMO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/ZTEX4PCAB313S.jpg?v=1534364951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AIMO WIRELESS<br>
+        <strong>Type: </strong>ZTE Grand X4 / Z956 (Cricket) / Z971 Blade Spark / Z965 GRAND X 4<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Grand X4 / Z956 / Z971 Blade Spark / Z965 GRAND X 4 Black Armor w/stand, Hot Pink skin&amp; Black Belt Clip</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1420082118755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>888790209113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982650896</id>
+    <published>2018-06-20T17:37:47-04:00</published>
+    <updated>2018-06-20T17:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-candy-case-n9517-clear"/>
+    <title>Emax Candy Case N9517 Clear</title>
+    <s:type>Candy/Hardcase/TPU</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CKZTEN9517TR02.jpg?v=1516032969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Candy/Hardcase/TPU<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982650896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>168120457293</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982618128</id>
+    <published>2018-06-20T17:37:47-04:00</published>
+    <updated>2018-06-20T17:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-candy-case-n9517-blue"/>
+    <title>Emax Candy Case N9517 Blue</title>
+    <s:type>Candy/Hardcase/TPU</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/CKZTEN9517TR03.jpg?v=1516032906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Candy/Hardcase/TPU<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982618128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>168120457309</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982323216</id>
+    <published>2018-06-20T17:37:47-04:00</published>
+    <updated>2018-06-20T17:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-case-n9517-silver"/>
+    <title>Emax Brushed Case N9517 Silver</title>
+    <s:type>Hybrid</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/BC3-ZTEN9517-20.jpg?v=1516032593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Hybrid<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982323216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku>168120457057</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982290448</id>
+    <published>2018-06-20T17:37:47-04:00</published>
+    <updated>2018-06-20T17:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-case-n9517-red"/>
+    <title>Emax Brushed Case N9517 Red</title>
+    <s:type>Hybrid</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235854_01.jpg?v=1516032527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Hybrid<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982290448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku>168120457507</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982257680</id>
+    <published>2018-06-20T17:37:46-04:00</published>
+    <updated>2018-06-20T17:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-case-n9517-r-gd"/>
+    <title>Emax Brushed Case N9517 R. GD</title>
+    <s:type>Hybrid</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235855_01.jpg?v=1516032460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Hybrid<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982257680</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku>168120457514</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982224912</id>
+    <published>2018-06-20T17:37:46-04:00</published>
+    <updated>2018-06-20T17:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-case-n9517-blue"/>
+    <title>Emax Brushed Case N9517 Blue</title>
+    <s:type>Hybrid</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302235852_01.jpg?v=1516032390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Hybrid<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982224912</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku>168120457491</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/24982159376</id>
+    <published>2018-06-20T17:37:46-04:00</published>
+    <updated>2018-06-20T17:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-brushed-case-n9517-black"/>
+    <title>Emax Brushed Case N9517 Black</title>
+    <s:type>Hybrid</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/BC3-ZTEN9517-01.jpg?v=1516032335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Hybrid<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Samsung J3 Emerge (2017) J327 Galaxy Amp Prime 2 Galaxy J3 Prime J3 Eclipse Luna Pro</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/24982159376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.10</s:price>
+      <s:sku>168120457484</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/66849898512</id>
+    <published>2018-05-23T12:07:47-04:00</published>
+    <updated>2018-05-23T12:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-1"/>
+    <title>Eagle Wallet Zte Blade</title>
+    <s:type>Wallet</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/s-l1600_a16eb6e1-7785-4aeb-8469-e6e7b6c37ede.jpg?v=1516024924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>Wallet<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/66849898512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>841169183117</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663210512</id>
+    <published>2018-05-19T10:59:48-04:00</published>
+    <updated>2018-05-19T10:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-8"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2DBR.jpg?v=1526741959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663210512</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183537</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663177744</id>
+    <published>2018-05-19T10:58:43-04:00</published>
+    <updated>2018-05-19T10:58:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-7"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2NBL.jpg?v=1526741907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663177744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183544</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663144976</id>
+    <published>2018-05-19T10:57:32-04:00</published>
+    <updated>2018-05-19T10:57:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-6"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2LBL.jpg?v=1526741836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663144976</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183551</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663112208</id>
+    <published>2018-05-19T10:56:35-04:00</published>
+    <updated>2018-05-19T10:56:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-5"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2HPK.jpg?v=1526741777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663112208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183575</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663079440</id>
+    <published>2018-05-19T10:55:51-04:00</published>
+    <updated>2018-05-19T10:55:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-4"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2BR.jpg?v=1526741734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663079440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183568</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/127663046672</id>
+    <published>2018-05-19T10:55:03-04:00</published>
+    <updated>2018-05-19T10:55:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagle-wallet-zte-blade-x-z965-3"/>
+    <title>Eagle Wallet ZTE Blade X/Z965</title>
+    <s:type>WALLET</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/WPZTEZ965MW2BK.jpg?v=1526741683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>WALLET<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/127663046672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>841169183520</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/115988791312</id>
+    <published>2018-03-21T19:15:54-04:00</published>
+    <updated>2018-03-21T19:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/eagler-kickstand-zte-n9517-7"/>
+    <title>Eagler Kickstand ZTE N9517</title>
+    <s:type>KICKSTAND</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302186958.jpg?v=1521839434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>KICKSTAND<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZTE Blade Force N9517 Hybrid Hard Soft Case With Kickstand Black and Purple</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/115988791312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>841169181052</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/73971564560</id>
+    <published>2018-03-06T20:24:55-05:00</published>
+    <updated>2018-03-06T20:24:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/emax-tactical-holster-z965"/>
+    <title>Emax Tactical Holster Blade X</title>
+    <s:type>HOLSTERCOMBO</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TA-H-ZTEZ965-01.jpg?v=1516547908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>HOLSTERCOMBO<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/73971564560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>168120462686</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/98288074768</id>
+    <published>2018-02-16T20:21:07-05:00</published>
+    <updated>2018-02-16T20:21:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-tpupc16-zteblxrg"/>
+    <title>Reiko TPUPC16-ZTEBLXRG</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TPUPC16-ZTEBLXRG-1_large_633c384a-b901-4a52-b4d7-b8a8a1d50612.jpg?v=1519860893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6 PLUS/ 6S PLUS HYBRID METAL BRUSHED TEXTURE CASE IN BLACK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/98288074768</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>885249825368</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/98288042000</id>
+    <published>2018-02-16T20:21:06-05:00</published>
+    <updated>2018-02-16T20:21:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-tpupc16-zteblxrd"/>
+    <title>Reiko TPUPC16-ZTEBLXRD</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TPUPC16-ZTEBLXRD-1_large_53cd628d-7e8e-48bd-b99f-04beb4e4bb37.jpg?v=1519861085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6 PLUS/ 6S PLUS HYBRID METAL BRUSHED TEXTURE CASE IN BLACK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/98288042000</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>885249825382</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/98288009232</id>
+    <published>2018-02-16T20:21:04-05:00</published>
+    <updated>2018-02-16T20:21:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/reiko-tpupc16-zteblxnv"/>
+    <title>Reiko TPUPC16-ZTEBLXNV</title>
+    <s:type>Apple iPhone 8 Plus 5.5&quot;</s:type>
+    <s:vendor>REIKO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TPUPC16-ZTEBLXNV-1_large_9f43d108-4b5a-4d6a-a14b-7b9070529a14.jpg?v=1519861262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>REIKO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone 8 Plus 5.5&quot;<br>
+        <strong>Price: </strong>
+            3.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IPHONE 6 PLUS/ 6S PLUS HYBRID METAL BRUSHED TEXTURE CASE IN BLACK</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLADEX</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/98288009232</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.75</s:price>
+      <s:sku>885249825351</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+</feed>

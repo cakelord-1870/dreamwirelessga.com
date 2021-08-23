@@ -1,0 +1,234 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="" data-id="zizo-bolt-cover-iphone-7-plus-10"> 
+    <div class="product-options" > 
+      <select id="product-selectors-" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="1605">RED - $11.10 USD</option>
+        
+        
+        
+        <option  value="7141">BLUE - $11.10 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap = {};
+  Shopify.quickshopUpdateOptionsInSelector = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick- .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick- .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick- .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick- .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick- .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick- .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick- .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap['root'] = Shopify.quickshopOptionsMap['root'] || [];
+      Shopify.quickshopOptionsMap['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap['root'] = Shopify.uniq(Shopify.quickshopOptionsMap['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap[key] = Shopify.quickshopOptionsMap[key] || [];
+        Shopify.quickshopOptionsMap[key].push(variant.option2);
+        Shopify.quickshopOptionsMap[key] = Shopify.uniq(Shopify.quickshopOptionsMap[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap[key] = Shopify.quickshopOptionsMap[key] || [];
+        Shopify.quickshopOptionsMap[key].push(variant.option3);
+        Shopify.quickshopOptionsMap[key] = Shopify.uniq(Shopify.quickshopOptionsMap[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick- .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick- .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector(2);
+      return true;
+    });
+
+  };
+  productsObj.id = {"id":,"title":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case","handle":"zizo-bolt-cover-iphone-7-plus-10","description":"Apple iPhone 6 Plus \/ 6S Plus \/ 7 Plus \/ 8 Plus - BOLT Cover w\/ Kickstand, Holster, Tempered Glass Screen Protector, Lanyard - Black \/ Red","published_at":"2017-02-22T20:55:00-05:00","created_at":"2017-02-22T20:55:29-05:00","vendor":"ZIZO WIRELESS","type":"Apple iPhone 8 Plus 5.5\"","tags":["Box Packaged","Red","Texture"],"price":1110,"price_min":1110,"price_max":1110,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":1605,"title":"RED","option1":"RED","option2":null,"option3":null,"sku":"46","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case - RED","public_title":"RED","options":["RED"],"price":1110,"weight":191,"compare_at_price":null,"inventory_quantity":-16,"inventory_management":null,"inventory_policy":"continue","barcode":"1BOLT-IPH7PLUS-BKRD"},{"id":7141,"title":"BLUE","option1":"BLUE","option2":null,"option3":null,"sku":"84","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case - BLUE","public_title":"BLUE","options":["BLUE"],"price":1110,"weight":191,"compare_at_price":null,"inventory_quantity":0,"inventory_management":null,"inventory_policy":"continue","barcode":"1BOLT-IPH7PLUS-BLBK"}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","options":["Color"],"media":[{"alt":null,"id":7,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v="},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","width":1000},{"alt":null,"id":5,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v=","width":1024},{"alt":null,"id":3,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v=","width":1024},{"alt":null,"id":1,"position":4,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v=","width":1024},{"alt":null,"id":9,"position":5,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v=","width":1024},{"alt":null,"id":7,"position":6,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v=","width":1024},{"alt":null,"id":5,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v=","width":1024},{"alt":null,"id":3,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v=","width":1024},{"alt":null,"id":1,"position":9,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v=","width":1024},{"alt":null,"id":3397,"position":10,"preview_image":{"aspect_ratio":1.0,"height":1042,"width":1042,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v="},"aspect_ratio":1.0,"height":1042,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v=","width":1042}],"content":"Apple iPhone 6 Plus \/ 6S Plus \/ 7 Plus \/ 8 Plus - BOLT Cover w\/ Kickstand, Holster, Tempered Glass Screen Protector, Lanyard - Black \/ Red"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":,"title":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case","handle":"zizo-bolt-cover-iphone-7-plus-10","description":"Apple iPhone 6 Plus \/ 6S Plus \/ 7 Plus \/ 8 Plus - BOLT Cover w\/ Kickstand, Holster, Tempered Glass Screen Protector, Lanyard - Black \/ Red","published_at":"2017-02-22T20:55:00-05:00","created_at":"2017-02-22T20:55:29-05:00","vendor":"ZIZO WIRELESS","type":"Apple iPhone 8 Plus 5.5\"","tags":["Box Packaged","Red","Texture"],"price":1110,"price_min":1110,"price_max":1110,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":1605,"title":"RED","option1":"RED","option2":null,"option3":null,"sku":"46","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case - RED","public_title":"RED","options":["RED"],"price":1110,"weight":191,"compare_at_price":null,"inventory_quantity":-16,"inventory_management":null,"inventory_policy":"continue","barcode":"1BOLT-IPH7PLUS-BKRD"},{"id":7141,"title":"BLUE","option1":"BLUE","option2":null,"option3":null,"sku":"84","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Apple iPhone 6\/7\/8 Plus Bolt Hybrid Case - BLUE","public_title":"BLUE","options":["BLUE"],"price":1110,"weight":191,"compare_at_price":null,"inventory_quantity":0,"inventory_management":null,"inventory_policy":"continue","barcode":"1BOLT-IPH7PLUS-BLBK"}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","options":["Color"],"media":[{"alt":null,"id":7,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v="},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BOLT-IPH7PLUS-BKRD-1-ALT_1024x1024_934c599d-8bb7-46c8-8044-ec0bbeec03ac.jpg?v=","width":1000},{"alt":null,"id":5,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/9BOLT-IPH7PLUS-BKRD_1024x1024_7c63f7d1-62ac-4e43-9b59-d2128daa88d9.jpg?v=","width":1024},{"alt":null,"id":3,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/7BOLT-IPH7PLUS-BKRD_1024x1024_9c7c1a4f-f470-453b-b835-be056ca86194.jpg?v=","width":1024},{"alt":null,"id":1,"position":4,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/8BOLT-IPH7PLUS-BKRD_1024x1024_969a9da1-ed84-4236-9318-e11eb31c6b9e.jpg?v=","width":1024},{"alt":null,"id":9,"position":5,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/6BOLT-IPH7PLUS-BKRD_1024x1024_3242531a-8a2c-47a3-9205-9032cc9502d6.jpg?v=","width":1024},{"alt":null,"id":7,"position":6,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/4BOLT-IPH7PLUS-BKRD_1024x1024_b4316b71-46c0-41dc-8fb9-a4eacff756b9.jpg?v=","width":1024},{"alt":null,"id":5,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/5BOLT-IPH7PLUS-BKRD_1024x1024_458b8762-88b6-4346-b135-2a96d88e1bc4.jpg?v=","width":1024},{"alt":null,"id":3,"position":8,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/3BOLT-IPH7PLUS-BKRD_1024x1024_9e5c8292-59b6-476c-bf7e-79c21e0954de.jpg?v=","width":1024},{"alt":null,"id":1,"position":9,"preview_image":{"aspect_ratio":1.0,"height":1024,"width":1024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v="},"aspect_ratio":1.0,"height":1024,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/2BOLT-IPH7PLUS-BKRD_1024x1024_abe682ba-0bde-49b7-9260-3871e5ec5a73.jpg?v=","width":1024},{"alt":null,"id":3397,"position":10,"preview_image":{"aspect_ratio":1.0,"height":1042,"width":1042,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v="},"aspect_ratio":1.0,"height":1042,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/BLUEB.jpg?v=","width":1042}],"content":"Apple iPhone 6 Plus \/ 6S Plus \/ 7 Plus \/ 8 Plus - BOLT Cover w\/ Kickstand, Holster, Tempered Glass Screen Protector, Lanyard - Black \/ Red"};
+    var layout = $('#product-form-quick-'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch--' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick- .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap = {};
+        Shopify.quickshopLinkOptionSelectors(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

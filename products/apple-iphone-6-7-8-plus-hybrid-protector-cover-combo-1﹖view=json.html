@@ -1,0 +1,250 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-923" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-923" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="923" data-id="apple-iphone-6-7-8-plus-hybrid-protector-cover-combo-1"> 
+    <div class="product-options" > 
+      <select id="product-selectors-923" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="0851">BLACK - $4.00 USD</option>
+        
+        
+        
+        <option  value="3619">RED - $4.00 USD</option>
+        
+        
+        
+        <option  value="9155">GREY - $4.00 USD</option>
+        
+        
+        
+        <option  value="1923">BLACK/ORANGE - $4.00 USD</option>
+        
+        
+        
+        <option  value="4691">PURPLE/LIGHT BLUE - $4.00 USD</option>
+        
+        
+        
+        <option  value="7459">PINK - $4.00 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap923 = {};
+  Shopify.quickshopUpdateOptionsInSelector923 = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick-923 .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick-923 .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick-923 .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick-923 .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick-923 .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick-923 .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap923[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick-923 .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors923 = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap923['root'] = Shopify.quickshopOptionsMap923['root'] || [];
+      Shopify.quickshopOptionsMap923['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap923['root'] = Shopify.uniq(Shopify.quickshopOptionsMap923['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap923[key] = Shopify.quickshopOptionsMap923[key] || [];
+        Shopify.quickshopOptionsMap923[key].push(variant.option2);
+        Shopify.quickshopOptionsMap923[key] = Shopify.uniq(Shopify.quickshopOptionsMap923[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap923[key] = Shopify.quickshopOptionsMap923[key] || [];
+        Shopify.quickshopOptionsMap923[key].push(variant.option3);
+        Shopify.quickshopOptionsMap923[key] = Shopify.uniq(Shopify.quickshopOptionsMap923[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector923(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector923(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector923(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick-923 .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector923(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector923(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick-923 .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector923(2);
+      return true;
+    });
+
+  };
+  productsObj.id923 = {"id":923,"title":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo .","handle":"apple-iphone-6-7-8-plus-hybrid-protector-cover-combo-1","description":"\u003cspan\u003eApple iPhone 6\/7\/8 plus Heavy Duty Protective Case with  Carrying Belt Clip , [3 Layers] Rugged Rubber Shockproof Protection Cover .\u003c\/span\u003e","published_at":"2020-08-08T16:04:13-04:00","created_at":"2020-08-08T16:04:11-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone 8 Plus 5.5\"","tags":["Bag Packaged","new","Solid"],"price":400,"price_min":400,"price_max":400,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":0851,"title":"BLACK","option1":"BLACK","option2":null,"option3":null,"sku":"485","requires_shipping":true,"taxable":false,"featured_image":{"id":7043,"product_id":923,"position":1,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","variant_ids":[0851]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - BLACK","public_title":"BLACK","options":["BLACK"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-37,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":019,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v="}}},{"id":3619,"title":"RED","option1":"RED","option2":null,"option3":null,"sku":"736","requires_shipping":true,"taxable":false,"featured_image":{"id":1507,"product_id":923,"position":2,"created_at":"2020-08-08T16:04:14-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","variant_ids":[3619]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - RED","public_title":"RED","options":["RED"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-20,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":787,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v="}}},{"id":9155,"title":"GREY","option1":"GREY","option2":null,"option3":null,"sku":"409","requires_shipping":true,"taxable":false,"featured_image":{"id":5971,"product_id":923,"position":3,"created_at":"2020-08-08T16:04:14-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","variant_ids":[9155]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - GREY","public_title":"GREY","options":["GREY"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-14,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":323,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v="}}},{"id":1923,"title":"BLACK\/ORANGE","option1":"BLACK\/ORANGE","option2":null,"option3":null,"sku":"652","requires_shipping":true,"taxable":false,"featured_image":{"id":8115,"product_id":923,"position":4,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","variant_ids":[1923]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - BLACK\/ORANGE","public_title":"BLACK\/ORANGE","options":["BLACK\/ORANGE"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":091,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v="}}},{"id":4691,"title":"PURPLE\/LIGHT BLUE","option1":"PURPLE\/LIGHT BLUE","option2":null,"option3":null,"sku":"706","requires_shipping":true,"taxable":false,"featured_image":{"id":9187,"product_id":923,"position":5,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","variant_ids":[4691]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - PURPLE\/LIGHT BLUE","public_title":"PURPLE\/LIGHT BLUE","options":["PURPLE\/LIGHT BLUE"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-10,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":859,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v="}}},{"id":7459,"title":"PINK","option1":"PINK","option2":null,"option3":null,"sku":"726","requires_shipping":true,"taxable":false,"featured_image":{"id":0883,"product_id":923,"position":6,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v=","variant_ids":[7459]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - PINK","public_title":"PINK","options":["PINK"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-11,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":627,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","options":["Color"],"media":[{"alt":null,"id":019,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","width":3024},{"alt":null,"id":787,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","width":3024},{"alt":null,"id":323,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","width":3024},{"alt":null,"id":091,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","width":3024},{"alt":null,"id":859,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","width":3024},{"alt":null,"id":627,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v=","width":3024}],"content":"\u003cspan\u003eApple iPhone 6\/7\/8 plus Heavy Duty Protective Case with  Carrying Belt Clip , [3 Layers] Rugged Rubber Shockproof Protection Cover .\u003c\/span\u003e"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":923,"title":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo .","handle":"apple-iphone-6-7-8-plus-hybrid-protector-cover-combo-1","description":"\u003cspan\u003eApple iPhone 6\/7\/8 plus Heavy Duty Protective Case with  Carrying Belt Clip , [3 Layers] Rugged Rubber Shockproof Protection Cover .\u003c\/span\u003e","published_at":"2020-08-08T16:04:13-04:00","created_at":"2020-08-08T16:04:11-04:00","vendor":"BTB ELECTRONIC","type":"Apple iPhone 8 Plus 5.5\"","tags":["Bag Packaged","new","Solid"],"price":400,"price_min":400,"price_max":400,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":0851,"title":"BLACK","option1":"BLACK","option2":null,"option3":null,"sku":"485","requires_shipping":true,"taxable":false,"featured_image":{"id":7043,"product_id":923,"position":1,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","variant_ids":[0851]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - BLACK","public_title":"BLACK","options":["BLACK"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-37,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":019,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v="}}},{"id":3619,"title":"RED","option1":"RED","option2":null,"option3":null,"sku":"736","requires_shipping":true,"taxable":false,"featured_image":{"id":1507,"product_id":923,"position":2,"created_at":"2020-08-08T16:04:14-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","variant_ids":[3619]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - RED","public_title":"RED","options":["RED"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-20,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":787,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v="}}},{"id":9155,"title":"GREY","option1":"GREY","option2":null,"option3":null,"sku":"409","requires_shipping":true,"taxable":false,"featured_image":{"id":5971,"product_id":923,"position":3,"created_at":"2020-08-08T16:04:14-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","variant_ids":[9155]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - GREY","public_title":"GREY","options":["GREY"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-14,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":323,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v="}}},{"id":1923,"title":"BLACK\/ORANGE","option1":"BLACK\/ORANGE","option2":null,"option3":null,"sku":"652","requires_shipping":true,"taxable":false,"featured_image":{"id":8115,"product_id":923,"position":4,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","variant_ids":[1923]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - BLACK\/ORANGE","public_title":"BLACK\/ORANGE","options":["BLACK\/ORANGE"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-6,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":091,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v="}}},{"id":4691,"title":"PURPLE\/LIGHT BLUE","option1":"PURPLE\/LIGHT BLUE","option2":null,"option3":null,"sku":"706","requires_shipping":true,"taxable":false,"featured_image":{"id":9187,"product_id":923,"position":5,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","variant_ids":[4691]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - PURPLE\/LIGHT BLUE","public_title":"PURPLE\/LIGHT BLUE","options":["PURPLE\/LIGHT BLUE"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-10,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":859,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v="}}},{"id":7459,"title":"PINK","option1":"PINK","option2":null,"option3":null,"sku":"726","requires_shipping":true,"taxable":false,"featured_image":{"id":0883,"product_id":923,"position":6,"created_at":"2020-08-08T16:04:15-04:00","updated_at":"2021-06-03T14:18:49-04:00","alt":null,"width":3024,"height":4032,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v=","variant_ids":[7459]},"available":true,"name":"Apple iPhone 6\/7\/8 Plus Hybrid Protector Cover Combo . - PINK","public_title":"PINK","options":["PINK"],"price":400,"weight":191,"compare_at_price":null,"inventory_quantity":-11,"inventory_management":null,"inventory_policy":"continue","barcode":"","featured_media":{"alt":null,"id":627,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","options":["Color"],"media":[{"alt":null,"id":019,"position":1,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6451.jpg?v=","width":3024},{"alt":null,"id":787,"position":2,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6452.jpg?v=","width":3024},{"alt":null,"id":323,"position":3,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6454.jpg?v=","width":3024},{"alt":null,"id":091,"position":4,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6450.jpg?v=","width":3024},{"alt":null,"id":859,"position":5,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6455.jpg?v=","width":3024},{"alt":null,"id":627,"position":6,"preview_image":{"aspect_ratio":0.75,"height":4032,"width":3024,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v="},"aspect_ratio":0.75,"height":4032,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/IMG-6453.jpg?v=","width":3024}],"content":"\u003cspan\u003eApple iPhone 6\/7\/8 plus Heavy Duty Protective Case with  Carrying Belt Clip , [3 Layers] Rugged Rubber Shockproof Protection Cover .\u003c\/span\u003e"};
+    var layout = $('#product-form-quick-923'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-923", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch-923-' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick-923 .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap923 = {};
+        Shopify.quickshopLinkOptionSelectors923(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

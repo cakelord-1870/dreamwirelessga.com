@@ -1,0 +1,238 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div id="product-form-quick-323" class="product-quick-shop" style="width: 100%;">
+  <form class="variations_form product-form" id="product-form-quick-323" action="https://dreamwirelessga.com/cart/add" method="post" enctype="multipart/form-data" data-product-id="323" data-id="samsung-galaxy-a51-wallet-xtra-series"> 
+    <div class="product-options" > 
+      <select id="product-selectors-323" name="id" style="display: none;">
+        
+        
+        <option  selected="selected"  value="7443">black - $4.10 USD</option>
+        
+        
+        
+        <option  value="0211">rose gold - $4.10 USD</option>
+        
+        
+        
+        <option  value="2979">hot pink - $4.10 USD</option>
+        
+        
+      </select> 
+    </div>  
+    <div class="single_variation_wrap"> 
+      <div class="shopify-variation-add-to-cart variations_button shopify-variation-add-to-cart-disabled">
+        <div class="quantity"> 
+          <input type="text" id="qty" name="quantity" value="1" min="1" class="quantity-selector"> 
+          <div class="plus-minus">
+            <div class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+              <i class="icon-up-dir"></i>
+            </div>
+            <div class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) &amp;&amp; qty > 1 ) result.value--;return false;">
+              <i class="icon-down-dir"></i>
+            </div>
+          </div>
+        </div> 
+        <button type="submit" name="add" class="single_add_to_cart_button button">  
+          <span >Add to Cart</span>
+        </button>
+      </div>
+    </div>
+  </form>   
+</div> 
+<style>.quick-shop-wrapper .product-options .selector-wrapper {
+    display: none;
+  }
+   
+</style>
+<script> 
+  Shopify.quickshopOptionsMap323 = {};
+  Shopify.quickshopUpdateOptionsInSelector323 = function(selectorIndex) { 
+    switch (selectorIndex) {
+      case 0:
+        var key = 'root';
+        var selector = jQuery('#product-form-quick-323 .single-option-selector:eq(0)');
+        break;
+      case 1:
+        var key = jQuery('#product-form-quick-323 .single-option-selector:eq(0)').val();
+        var selector = jQuery('#product-form-quick-323 .single-option-selector:eq(1)');
+        break;
+      case 2:
+        var key = jQuery('#product-form-quick-323 .single-option-selector:eq(0)').val();
+        key += ' / ' + jQuery('#product-form-quick-323 .single-option-selector:eq(1)').val();
+        var selector = jQuery('#product-form-quick-323 .single-option-selector:eq(2)');
+    }
+
+    var initialValue = selector.val();
+    selector.empty();
+    var availableOptions = Shopify.quickshopOptionsMap323[key];
+    if (availableOptions && availableOptions.length) {
+      for (var i = 0; i < availableOptions.length; i++) {
+        var option = availableOptions[i];
+        var newOption = jQuery('<option></option>').val(option).html(option);
+        selector.append(newOption);
+      }
+      jQuery('#product-form-quick-323 .swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+        if (jQuery.inArray(jQuery(this).attr('data-value'), availableOptions) !== -1) {
+          jQuery(this).removeClass('soldout').show().find(':radio').removeAttr('disabled', 'disabled').removeAttr('checked');
+        } else {
+          jQuery(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled', 'disabled');
+        }
+      });
+      if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+        selector.val(initialValue);
+      }
+      selector.trigger('change');
+    }
+  };
+  Shopify.quickshopLinkOptionSelectors323 = function(product) {
+    // Building our mapping object.
+    for (var i = 0; i < product.variants.length; i++) {
+      var variant = product.variants[i];
+      //if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.quickshopOptionsMap323['root'] = Shopify.quickshopOptionsMap323['root'] || [];
+      Shopify.quickshopOptionsMap323['root'].push(variant.option1);
+      Shopify.quickshopOptionsMap323['root'] = Shopify.uniq(Shopify.quickshopOptionsMap323['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.quickshopOptionsMap323[key] = Shopify.quickshopOptionsMap323[key] || [];
+        Shopify.quickshopOptionsMap323[key].push(variant.option2);
+        Shopify.quickshopOptionsMap323[key] = Shopify.uniq(Shopify.quickshopOptionsMap323[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.quickshopOptionsMap323[key] = Shopify.quickshopOptionsMap323[key] || [];
+        Shopify.quickshopOptionsMap323[key].push(variant.option3);
+        Shopify.quickshopOptionsMap323[key] = Shopify.uniq(Shopify.quickshopOptionsMap323[key]);
+      }
+      //}
+    }
+    // Update options right away.
+    Shopify.quickshopUpdateOptionsInSelector323(0);
+    if (product.options.length > 1) Shopify.quickshopUpdateOptionsInSelector323(1);
+    if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector323(2);
+    // When there is an update in the first dropdown.
+    jQuery("#product-form-quick-323 .single-option-selector:eq(0)").change(function() {
+      Shopify.quickshopUpdateOptionsInSelector323(1);
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector323(2);
+      return true;
+    });
+    // When there is an update in the second dropdown.
+    jQuery("#product-form-quick-323 .single-option-selector:eq(1)").change(function() {
+      if (product.options.length === 3) Shopify.quickshopUpdateOptionsInSelector323(2);
+      return true;
+    });
+
+  };
+  productsObj.id323 = {"id":323,"title":"Samsung Galaxy A51 Wallet Xtra Series","handle":"samsung-galaxy-a51-wallet-xtra-series","description":"\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHigh-quality, protective wallet case for convenient storage of your smartphone, cards and cash\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMultiple card slots with additional inner flap can hold up to 5 cards\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eBuilt-in TPU snap-on case keeps the device securely in place\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003ePrecise cutouts allow quick access to all ports, buttons and camera hole\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMagnetic closure ensures your valuables are hidden, safe and secure\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2020-10-07T16:57:23-04:00","created_at":"2020-10-07T16:57:22-04:00","vendor":"VALOR COMMUNICATION","type":"Samsung Galaxy A51 \/(SM-A515F)","tags":["Box Packaged","new","Solid"],"price":410,"price_min":410,"price_max":410,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":7443,"title":"black","option1":"black","option2":null,"option3":null,"sku":"45","requires_shipping":true,"taxable":false,"featured_image":{"id":9155,"product_id":323,"position":1,"created_at":"2020-10-07T16:57:24-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","variant_ids":[7443]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - black","public_title":"black","options":["black"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-8,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":619,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v="}}},{"id":0211,"title":"rose gold","option1":"rose gold","option2":null,"option3":null,"sku":"38","requires_shipping":true,"taxable":false,"featured_image":{"id":6387,"product_id":323,"position":2,"created_at":"2020-10-07T16:57:23-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","variant_ids":[0211]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - rose gold","public_title":"rose gold","options":["rose gold"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":387,"position":2,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v="}}},{"id":2979,"title":"hot pink","option1":"hot pink","option2":null,"option3":null,"sku":"21","requires_shipping":true,"taxable":false,"featured_image":{"id":0851,"product_id":323,"position":3,"created_at":"2020-10-07T16:57:23-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v=","variant_ids":[2979]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - hot pink","public_title":"hot pink","options":["hot pink"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":155,"position":3,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","options":["Color"],"media":[{"alt":null,"id":619,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","width":600},{"alt":null,"id":387,"position":2,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","width":600},{"alt":null,"id":155,"position":3,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v=","width":600}],"content":"\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHigh-quality, protective wallet case for convenient storage of your smartphone, cards and cash\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMultiple card slots with additional inner flap can hold up to 5 cards\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eBuilt-in TPU snap-on case keeps the device securely in place\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003ePrecise cutouts allow quick access to all ports, buttons and camera hole\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMagnetic closure ensures your valuables are hidden, safe and secure\u003c\/li\u003e\n\u003c\/ul\u003e"};
+  selectCallback = function(variant, selector) {
+    if (variant) {
+      
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        var form = $('#' + selector.domIdPrefix).closest('form');
+        for (var i=0,length=variant.options.length; i<length; i++) {
+          var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+          if (radioButton.size()) { 
+            radioButton.get(0).checked = true;
+          }
+        } 
+      }  
+    }  
+  };
+  convertToSlug= function(e) { 
+    return e.toLowerCase().replace(/[^a-z0-9 -]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-")
+  };
+  jQuery(function($) {
+     
+    var product = {"id":323,"title":"Samsung Galaxy A51 Wallet Xtra Series","handle":"samsung-galaxy-a51-wallet-xtra-series","description":"\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHigh-quality, protective wallet case for convenient storage of your smartphone, cards and cash\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMultiple card slots with additional inner flap can hold up to 5 cards\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eBuilt-in TPU snap-on case keeps the device securely in place\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003ePrecise cutouts allow quick access to all ports, buttons and camera hole\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMagnetic closure ensures your valuables are hidden, safe and secure\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2020-10-07T16:57:23-04:00","created_at":"2020-10-07T16:57:22-04:00","vendor":"VALOR COMMUNICATION","type":"Samsung Galaxy A51 \/(SM-A515F)","tags":["Box Packaged","new","Solid"],"price":410,"price_min":410,"price_max":410,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":7443,"title":"black","option1":"black","option2":null,"option3":null,"sku":"45","requires_shipping":true,"taxable":false,"featured_image":{"id":9155,"product_id":323,"position":1,"created_at":"2020-10-07T16:57:24-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","variant_ids":[7443]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - black","public_title":"black","options":["black"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-8,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":619,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v="}}},{"id":0211,"title":"rose gold","option1":"rose gold","option2":null,"option3":null,"sku":"38","requires_shipping":true,"taxable":false,"featured_image":{"id":6387,"product_id":323,"position":2,"created_at":"2020-10-07T16:57:23-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","variant_ids":[0211]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - rose gold","public_title":"rose gold","options":["rose gold"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-4,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":387,"position":2,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v="}}},{"id":2979,"title":"hot pink","option1":"hot pink","option2":null,"option3":null,"sku":"21","requires_shipping":true,"taxable":false,"featured_image":{"id":0851,"product_id":323,"position":3,"created_at":"2020-10-07T16:57:23-04:00","updated_at":"2020-10-07T16:57:24-04:00","alt":null,"width":600,"height":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v=","variant_ids":[2979]},"available":true,"name":"Samsung Galaxy A51 Wallet Xtra Series - hot pink","public_title":"hot pink","options":["hot pink"],"price":410,"weight":191,"compare_at_price":null,"inventory_quantity":-2,"inventory_management":null,"inventory_policy":"deny","barcode":"","featured_media":{"alt":null,"id":155,"position":3,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="}}}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","options":["Color"],"media":[{"alt":null,"id":619,"position":1,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG031.jpg?v=","width":600},{"alt":null,"id":387,"position":2,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG035.jpg?v=","width":600},{"alt":null,"id":155,"position":3,"preview_image":{"aspect_ratio":1.0,"height":600,"width":600,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v="},"aspect_ratio":1.0,"height":600,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1742\/1195\/products\/MSA51PCMJG033.jpg?v=","width":600}],"content":"\u003cul data-mce-fragment=\"1\"\u003e\n\u003cli data-mce-fragment=\"1\"\u003eHigh-quality, protective wallet case for convenient storage of your smartphone, cards and cash\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMultiple card slots with additional inner flap can hold up to 5 cards\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eBuilt-in TPU snap-on case keeps the device securely in place\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003ePrecise cutouts allow quick access to all ports, buttons and camera hole\u003c\/li\u003e\n\u003cli data-mce-fragment=\"1\"\u003eMagnetic closure ensures your valuables are hidden, safe and secure\u003c\/li\u003e\n\u003c\/ul\u003e"};
+    var layout = $('#product-form-quick-323'); 
+    if (product.variants.length >= 1) { //multiple variants
+      for (var i = 0; i < product.variants.length; i++) {
+        var variant = product.variants[i];
+        var option = '<option value="' + variant.id + '">' + variant.title + '</option>'; 
+        layout.find('form.product-form > select').append(option);
+      }
+      new Shopify.OptionSelectors("product-selectors-323", {
+        product: product,
+        onVariantSelected: selectCallback, 
+        enableHistoryState: true
+      });  
+      var filePath = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var assetUrl = asset_url.substring(0, asset_url.lastIndexOf('/'));
+      var options = ""; 
+      for (var i = 0; i < product.options.length; i++) {
+        options += '<div class="swatch clearfix" data-option-index="' + i + '">';
+        options += '<div class="header">' + product.options[i] + ': </div>'; 
+        options += '<div class="swatch-content">';
+        var is_color = false;
+        var is_circle = 'circle';
+        if (/Color|Colour/i.test(product.options[i])) {
+          is_color = true;
+        }
+        if (swatch_color_type == '2') {
+          is_color = false;
+          is_circle = '';
+        } 
+        var optionValues = new Array();
+        for (var j = 0; j < product.variants.length; j++) {
+          var variant = product.variants[j];
+          var value = variant.options[i];
+          if(variant.featured_image && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+            var img = variant.featured_image.src.lastIndexOf("."); 
+            var vimg = variant.featured_image.src.slice(0, img) + "_50x50_crop_center" + variant.featured_image.src.slice(img); 
+          } 
+          var valueHandle = convertToSlug(value);
+          var forText = 'swatch-323-' + i + '-' + valueHandle; 
+          if (optionValues.indexOf(value) < 0) { 
+            options += '<div data-value="' + value + '" class="swatch-element '+is_circle+' '+product_swatch_size+' '+(is_color ? "color" : "")+' ' + (is_color ? "color" : "") + valueHandle + (variant.available ? ' available ' : ' soldout ') + '">';
+            if (is_color) {
+              options += '<div class="tooltip">' + value + '</div>';
+            }
+            options += '<input id="' + forText + '" type="radio" name="option-' + i + '" value="' + value + '" ' + (j == 0 ? ' checked ' : '') + (variant.available ? '' : ' disabled') + ' />';
+            if (is_color) {
+              if(vimg && woodmart_settings.product_data.product_swatch_setting == '2'){ 
+                options += '<label for="' + forText + '" class="variant-image"><img src="' + vimg + '" class="variant-image" style="max-width:100%;" /><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }else{
+                options += '<label for="' + forText + '" style="background-color: ' + valueHandle + '; background-image: url(' + filePath + valueHandle + '.png)"><img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+              }
+            } else {
+              options += '<label for="' + forText + '">' + value + '<img class="crossed-out" src="' + assetUrl + 'soldout.png" /></label>';
+            }
+            options += '</div>';
+            if (variant.available) {
+              $('#product-form-quick-323 .swatch[data-option-index="' + i + '"] .' + valueHandle).removeClass('soldout').addClass('available').find(':radio').removeAttr('disabled');
+            }
+            optionValues.push(value);
+          }
+        } 
+        options += '</div>';
+        options += '</div>';
+      }  
+      if(swatch_color_type == '1' || swatch_color_type == '2'){ 
+        layout.find('form.product-form .product-options > select').after(options);
+        layout.find('.swatch :radio').change(function() {
+          var optionIndex = $(this).closest('.swatch').attr('data-option-index');
+          var optionValue = $(this).val(); 
+          $(this)
+          .closest('form')
+          .find('.single-option-selector')
+          .eq(optionIndex)
+          .val(optionValue)
+          .trigger('change');
+        }); 
+      } 
+      if (product.available) {
+        Shopify.quickshopOptionsMap323 = {};
+        Shopify.quickshopLinkOptionSelectors323(product);
+      }
+    } else { //single variant
+      layout.find('form.product-form .product-options > select').remove();
+      var variant_field = '<input type="hidden" name="id" value="' + product.variants[0].id + '">';
+      layout.find('form.product-form').append(variant_field);
+    }
+     
+  });
+</script> 
+

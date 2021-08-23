@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/lg-g6-1.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2019-02-12T15:02:44-05:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1493102428259</id>
+    <published>2019-02-12T15:02:44-05:00</published>
+    <updated>2019-02-12T15:02:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-brushed-case-cover-8"/>
+    <title>LG G6 Hybrid Brushed Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/BC3-LGG6-03.jpg?v=1550005812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">(XL) LG G6 Brushed Case 3 Dr. Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1493102428259</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>168120438698</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1493103870051</id>
+    <published>2019-02-12T15:02:42-05:00</published>
+    <updated>2019-02-12T15:02:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-brushed-case-cover-9"/>
+    <title>LG G6 Hybrid Brushed Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/BC3-LGG6-01.jpg?v=1550005911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">(XL) LG G6 Brushed Case 3 Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1493103870051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>168120438681</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1472665616483</id>
+    <published>2019-01-05T15:47:14-05:00</published>
+    <updated>2019-01-05T15:47:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-brushed-case-cover-7"/>
+    <title>LG G6 Hybrid Brushed Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/BC-LGG6-01.jpg?v=1546722309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">(XL) LG G6 Brushed Case Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1472665616483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>168120438483</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1465163710563</id>
+    <published>2018-12-10T14:44:38-05:00</published>
+    <updated>2018-12-10T14:44:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-wallet-case-cover-3"/>
+    <title>LG G6 Hybrid Wallet Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302227915_01.jpg?v=1544471354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wallet Case With Holder Red /tpu Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1465163710563</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.65</s:price>
+      <s:sku>841169168350</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1465163513955</id>
+    <published>2018-12-10T14:44:38-05:00</published>
+    <updated>2018-12-10T14:44:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-wallet-case-cover-2"/>
+    <title>LG G6 Hybrid Wallet Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EAGLECELL WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302227919_02.jpg?v=1544471245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EAGLECELL WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wallet Case With Holder Pink /tpu White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1465163513955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.65</s:price>
+      <s:sku>841169168367</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1465111347299</id>
+    <published>2018-12-10T09:54:51-05:00</published>
+    <updated>2018-12-10T09:54:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-case-cover-4"/>
+    <title>LG G6 Hybrid Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302198443_01.jpg?v=1544454017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 H872 - Blue Black Astronoot Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1465111347299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>885126385411</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1465113116771</id>
+    <published>2018-12-10T09:54:47-05:00</published>
+    <updated>2018-12-10T09:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-brushed-case-cover-6"/>
+    <title>LG G6 Hybrid Brushed Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302198913_01.jpg?v=1544454400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Black Brushed Hybrid Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1465113116771</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.70</s:price>
+      <s:sku>885126385459</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1465106956387</id>
+    <published>2018-12-10T09:24:24-05:00</published>
+    <updated>2018-12-10T09:24:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-brushed-case-cover-5"/>
+    <title>LG G6 Hybrid Brushed Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/302222507_01.jpg?v=1544452790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dark Blue/Black Brushed Hybrid Protector Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1465106956387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.70</s:price>
+      <s:sku>885126388610</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464461590627</id>
+    <published>2018-12-08T11:45:56-05:00</published>
+    <updated>2018-12-08T11:45:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-kickstand-case-cover-7"/>
+    <title>LG G6 Hybrid Kickstand Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TCS-LGG6-03.jpg?v=1544288456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">(XL) LG G6 TOUGH CASE Dr. Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464461590627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>168120439992</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464454742115</id>
+    <published>2018-12-08T11:16:06-05:00</published>
+    <updated>2018-12-08T11:16:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-kickstand-case-cover-6"/>
+    <title>LG G6 Hybrid Kickstand Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/TCS-LGG6-01.jpg?v=1544286407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">(XL) LG G6 TOUGH CASE Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464454742115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>168120439985</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464249352291</id>
+    <published>2018-12-07T16:37:38-05:00</published>
+    <updated>2018-12-07T16:37:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-leather-wallet-case-cover"/>
+    <title>LG G6 Leather Wallet Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/316151_1TPUWT-LGG6-BLK.jpg?v=1544218838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Zizo Premium PC Cover with Wallet Folio Back / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464249352291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488271200</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464256823395</id>
+    <published>2018-12-07T16:24:15-05:00</published>
+    <updated>2018-12-07T16:24:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-zizo-bolt-case-cover-1"/>
+    <title>LG G6 Zizo Bolt Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/219975_1BOLT-LGG6-DTCG.jpg?v=1544219802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - BOLT Cover w/ Kickstand, Holster, Tempered Glass Screen Protector &amp; Lanyard - Desert Tan / Camo Green</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Desert Tan / Camo Gren</s:tag>
+    <s:tag>Texture</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464256823395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>888488273860</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464241586275</id>
+    <published>2018-12-07T15:52:03-05:00</published>
+    <updated>2018-12-07T15:52:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-zizo-heavy-duty-case-cover"/>
+    <title>LG G6 Zizo Heavy Duty Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/PRN2-LGG6-V2-BLCL-1.jpg?v=1544217835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6- Zizo Proton 2.0 Heavy Duty Case w/ Kickstand, Military Grade Drop Tested - Blue / Trans Clear</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464241586275</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488278049</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464217043043</id>
+    <published>2018-12-07T15:26:48-05:00</published>
+    <updated>2018-12-07T15:26:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-metallic-hybrid-case-cover"/>
+    <title>LG G6 Metallic Hybrid Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1ELT-LGG6-BL.jpg?v=1544214477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Zizo ELITE Cover w/ Magnetic Kickstand and Metallic Hybrid Protection - Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464217043043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>888488273549</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464212095075</id>
+    <published>2018-12-07T15:14:02-05:00</published>
+    <updated>2018-12-07T15:14:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-zizo-bolt-case-cover"/>
+    <title>LG G6 Zizo Bolt Case  Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1007198_BOLT-LGHM2-GDBK.jpg?v=1544213783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            9.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG Harmony 2 / K30 - BOLT Cover w/ Kickstand Holster, Full Glue Glass Screen Protector, Lanyard - Gold / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464212095075</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.45</s:price>
+      <s:sku>888488301891</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464210784355</id>
+    <published>2018-12-07T15:09:59-05:00</published>
+    <updated>2018-12-07T15:09:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-case-cover-3"/>
+    <title>LG G6 Hybrid Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/216677_1UCASE-LGG6-GR.jpg?v=1544213594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - UCASE Hybrid PC &amp; Silicon w/ Kickstand in ZV Blister Packaging - Gray</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464210784355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>888488273655</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464172150883</id>
+    <published>2018-12-07T13:34:50-05:00</published>
+    <updated>2018-12-07T13:34:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-zv-leather-wallet-case-cover"/>
+    <title>LG G6 ZV  Leather  Wallet Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/316161_1TPUWT-LGG6-BR.jpg?v=1544208035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Zizo Premium PC Cover with Wallet Folio  Brown</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464172150883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488271170</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464187224163</id>
+    <published>2018-12-07T13:34:47-05:00</published>
+    <updated>2018-12-07T13:34:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-kickstand-case-cover-5"/>
+    <title>LG G6 Hybrid Kickstand Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/216655_1UCASE-LGG6-BKBL.jpg?v=1544210168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - UCASE Hybrid PC &amp; Silicon w/ Kickstand in ZV Blister Packaging - Black / Blue</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464187224163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>888488273631</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464145739875</id>
+    <published>2018-12-07T11:00:45-05:00</published>
+    <updated>2018-12-07T11:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-solid-wallet-case-cover-1"/>
+    <title>LG G6 Solid Wallet Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/216621_1WTPH-LGG6-BKLT.jpg?v=1544204826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Flap Wallet Pouch with TPU Inside in ZV Blister Packaging - Black / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464145739875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>888488271101</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464148459619</id>
+    <published>2018-12-07T11:00:44-05:00</published>
+    <updated>2018-12-07T11:00:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-kickstand-hybrid-case-cover"/>
+    <title>LG G6 Kickstand Hybrid Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/UCASE-LGG6-BKPU_2.jpg?v=1544205261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - UCASE Hybrid PC &amp; Silicon w/ Kickstand in ZV Blister Packaging - Black / Purple</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464148459619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>888488273624</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464038129763</id>
+    <published>2018-12-07T08:39:48-05:00</published>
+    <updated>2018-12-07T08:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-kickstand-case-cover-4"/>
+    <title>LG G6 Hybrid Kickstand Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Hybrid Transformer Cover w/ Kickstand and UV Coated PC/TPU Layers in ZV Blister Packaging - Gold / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464038129763</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488273730</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1464038096995</id>
+    <published>2018-12-07T08:39:48-05:00</published>
+    <updated>2018-12-07T08:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-hybrid-kickstand-case-cover-3"/>
+    <title>LG G6 Hybrid Kickstand Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1HBTFM-LGG6-GDBK.jpg?v=1544192315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Hybrid Transformer Cover w/ Kickstand and UV Coated PC/TPU Layers in ZV Blister Packaging - Gold / Black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1464038096995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>888488273730</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1461277327459</id>
+    <published>2018-12-01T18:52:14-05:00</published>
+    <updated>2018-12-01T18:52:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-wallet-design-case-cover-2"/>
+    <title>LG G6 Wallet Design Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/220134_1DWTPH-LGG6-OWLLV.jpg?v=1543708392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Design Wallet Flap Pouch with TPU Inside in ZV Blister Packaging - Owl Love</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1461277327459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>888488271040</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1461275492451</id>
+    <published>2018-12-01T18:49:54-05:00</published>
+    <updated>2018-12-01T18:49:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-wallet-design-case-cover-1"/>
+    <title>LG G6 Wallet Design Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1DWTPH-LGG6-CCL.jpg?v=1543708274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Design Wallet Flap Pouch with TPU Inside in ZV Blister Packaging - Colorful Leaves</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1461275492451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>888488271064</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/1461275361379</id>
+    <published>2018-12-01T18:24:38-05:00</published>
+    <updated>2018-12-01T18:24:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/lg-g6-wallet-design-case-cover"/>
+    <title>LG G6 Wallet Design Case Cover</title>
+    <s:type>LG G6</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/220135_1DWTPH-LGG6-CFFT.jpg?v=1543708181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>LG G6<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LG G6 - Design Wallet Flap Pouch with TPU Inside in ZV Blister Packaging - Colorful Feathers</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/1461275361379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>888488271033</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+</feed>

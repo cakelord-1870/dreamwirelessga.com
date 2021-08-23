@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamwirelessga.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamwirelessga.com/collections/apple-iphone-xs-max.atom"/>
+  <title>Dream Wireless </title>
+  <updated>2021-07-03T14:42:37-04:00</updated>
+  <author>
+    <name>Dream Wireless </name>
+  </author>
+  <entry>
+    <id>https://dreamwirelessga.com/products/6821621498037</id>
+    <published>2021-07-03T14:42:37-04:00</published>
+    <updated>2021-07-03T14:42:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-deluxe-tpu-clear-case-cover"/>
+    <title>Apple iPhone XS Max Deluxe TPU Clear Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>EMAX WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/DCK2-IPXSM-TR02_f958a6e1-9eb9-481d-a054-51d87b281c63.jpg?v=1625337758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EMAX WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone XS Max Deluxe TPU Clear Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bag Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6821621498037</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>168120479097</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/6072852152501</id>
+    <published>2020-11-13T16:41:32-05:00</published>
+    <updated>2020-11-13T16:41:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-wallet-design-case-cover"/>
+    <title>Apple iPhone Xs Max Wallet Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG-5300_d6c45c9b-fa89-4890-805f-7c3c9a7c656d.jpg?v=1605303694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wallet Design Cover with Extra Flap Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Silver</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184139</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Purple</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184122</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Black</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184092</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Brown</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184115</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Tan</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184108</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Grey Squares</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184078</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/6072852152501</id>
+      <title>Brown Squares</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231184085</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/5997496107189</id>
+    <published>2020-10-27T12:41:20-04:00</published>
+    <updated>2020-10-27T12:41:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-case-friendly-tempered-glass"/>
+    <title>Apple iPhone Xs Max Case Friendly Tempered Glass</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/RIP12PSC81-1_f5b99cfe-1b1c-4796-b486-338ff4de0088.jpg?v=1603816883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            1.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">0.3mm thick premium-grade tempered glass screen protector provides maximum image clarity and ultimate touch screen sensitivity.<br data-mce-fragment="1">9H hardness scratch-resistant surface provides high resistance to shock, impact and damages from sharp objects.<br data-mce-fragment="1">Polished, rounded-edge design offers a smooth feel to the perimeter while providing ultimate impact protection to the screen.<br data-mce-fragment="1">Shatterproof technology keeps the user and phone safe from scratches and damages if broken.<br data-mce-fragment="1">Oleophobic coating prevents excessive fingerprints and oil stains from contaminating the surface, making it easy to clean.<br data-mce-fragment="1">Simple application adhesive allows bubble-free installation that is perfectly flat and spotless every time.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/5997496107189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.65</s:price>
+      <s:sku>885126644983</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4674226651235</id>
+    <published>2020-08-04T10:14:59-04:00</published>
+    <updated>2020-08-04T10:14:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-lux-series-hybrid-cover"/>
+    <title>Apple iPhone Xs Max Lux Series Hybrid Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/RIPXSMCSE4TS001.jpg?v=1596550499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Multi-layer hybrid case offers military grade protection blended with a stylish finish without the added bulk you would expect from a rugged case.<br>Textured ridges provide a non-slip grip to prevent drops before it happens. <br>Transparent back shows off the sleek design of your device allowing you to get the full Lux Series experience with tempered glass and Lifetime Warranty included. <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4674226651235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.25</s:price>
+      <s:sku>885126649216</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4651555094627</id>
+    <published>2020-07-06T15:50:35-04:00</published>
+    <updated>2020-07-06T15:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-privacy-tempered-glass-1"/>
+    <title>Apple iPhone Xs Max Privacy Tempered Glass</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONEXRLCDSCPR67_8ce44a5a-5296-4d7d-bbec-abe0adc46efc.jpg?v=1594064857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max Privacy Tempered Glass Screen Protector (2.5D)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Privacy</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4651555094627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>2222231174680</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4447775326307</id>
+    <published>2019-12-31T09:03:39-05:00</published>
+    <updated>2019-12-31T09:03:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-chrome-slim-kickstand-case-cover"/>
+    <title>Apple iPhone Xs Max Chrome Slim  Kickstand Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG-0314.jpg?v=1577808740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            2.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max Slim TPU Chrome Bumpers with Metal Popsocket Kickstand</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Black</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>888123652319</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>888123652371</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Red</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>888123652333</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Purple</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>88123652340</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>888123652357</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4447775326307</id>
+      <title>Gold</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>888123652364</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4439202562147</id>
+    <published>2019-12-20T12:11:49-05:00</published>
+    <updated>2019-12-20T12:11:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-modifier-camera-lens"/>
+    <title>Apple iPhone Xs Max Modifier Camera Lens</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPXSMAXLCDLEPRM201.jpg?v=1576864197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Modified Camera Lens Seconds Change Cover<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4439202562147</id>
+      <title>Black</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>885126626262</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4439202562147</id>
+      <title>Silver</title>
+      <s:price currency="USD">4.10</s:price>
+      <s:sku>885126626286</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4328595292259</id>
+    <published>2019-10-29T11:23:18-04:00</published>
+    <updated>2019-10-29T11:23:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-rich-diary-wallet"/>
+    <title>Apple iPhone XS Max Rich Diary Wallet Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/61EOzockt9L._SL1001_47adfc87-ef45-4693-8341-a0608b6a4fba.jpg?v=1572362944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Apple iPhone XS Max (6.5) Rich Diary Wallet Cover with Magnetic Flap</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4328595292259</id>
+      <title>Black</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>8809621290379</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4328595292259</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>8809621290393</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4328595292259</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>8809621290409</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4260926750819</id>
+    <published>2019-10-15T10:47:10-04:00</published>
+    <updated>2019-10-15T10:47:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-silicone-case-cover-1"/>
+    <title>Apple iPhone Xs-Max Silicone Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPXSMAXHPCLS001WP_1.jpg?v=1571152759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs-Max Liquid Silicone Protector Cover (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Black</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188014701</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Red</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188036970</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Pink</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188025806</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Teal</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188036994</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Purple</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188036987</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4260926750819</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>888188036918</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4257656406115</id>
+    <published>2019-10-14T09:46:59-04:00</published>
+    <updated>2019-10-14T09:46:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/copy-of-apple-iphone-11-pro-max-xs-max-case-friendly-tempered-glass"/>
+    <title>Apple iPhone Xs Max Case Friendly Tempered Glass</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/1LSHD-IPHXSMAX_media-Clear-1.jpg?v=1580759010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">APPLE IPHONE XS MAX - ZIZO LIGHTNING SHIELD TEMPERED GLASS SCREEN PROTECTOR 0.33MM - CLEAR<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4257656406115</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>888488306728</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4179902464099</id>
+    <published>2019-10-07T18:24:35-04:00</published>
+    <updated>2019-10-07T18:24:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-x-max-hybrid-smoke-case-cover"/>
+    <title>Apple iPhone X Max Hybrid Smoke Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPHONEXRHPCFSSO253_9f2c4ac5-347c-434b-84ad-46854df48686.jpg?v=1570487076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone X Max  Semi Transparent Smoke Frosted/Rubberized Ink Blue Frost Hybrid Protector Cover (with Package)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4179902464099</id>
+      <title>Black</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>201901254565</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4179902464099</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>201901254572</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4179902464099</id>
+      <title>Red</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>201901254596</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4118478159971</id>
+    <published>2019-09-23T09:40:47-04:00</published>
+    <updated>2019-09-23T09:40:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-magnetic-ring-hybrid-case-cover"/>
+    <title>Apple iPhone Xs Max Magnetic Ring Hybrid Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/REV-IPHXSMAX_media-Magnetic_Black-1.jpg?v=1569246365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ZIZO REVOLVE SERIES IPHONE XS MAX CASE - BUILT IN RING HOLDER KICKSTAND AND MAGNETIC MOUNT</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4118478159971</id>
+      <title>Black</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>888488226101</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4118478159971</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>888488226118</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4023127048291</id>
+    <published>2019-09-10T15:30:22-04:00</published>
+    <updated>2019-09-10T15:30:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-full-covered-tempered-glass"/>
+    <title>Apple iPhone Xs Max Full Covered Tempered Glass</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPXSMAXLCDSCPRF121_3586830.jpg?v=1568144238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">APPLE IPHONE XS MAX - MYBAT FULL-SCREEN COVERAGE FROSTED TEMPERED GLASS SCREEN PROTECTOR - BLACK<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4023127048291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>885126608428</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/4016856793187</id>
+    <published>2019-09-06T12:51:11-04:00</published>
+    <updated>2019-09-06T12:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-hybrid-slim-case-cover"/>
+    <title>Apple iPhone Xs-Max Hybrid Slim case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>ZIZO WIRELESS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/RFE-IPHXSMAX-HG_media-Horizon-1.jpg?v=1567788899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZIZO WIRELESS<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">APPLE IPHOEN XS-MAX ZIZO REFINE IPHONE XS MAX CASE - ULTRA SLIM</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4016856793187</id>
+      <title>HORIZON</title>
+      <s:price currency="USD">4.60</s:price>
+      <s:sku>888488317991</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/4016856793187</id>
+      <title>NIGHT SKY</title>
+      <s:price currency="USD">4.60</s:price>
+      <s:sku>888488318004</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3999008981091</id>
+    <published>2019-08-27T08:59:33-04:00</published>
+    <updated>2019-08-27T08:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-clear-ring-case-cover"/>
+    <title>Apple iPhone XS Plus/ Max Clear Ring Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0669.jpg?v=1566911732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone XS Plus/ Max Hard Clear Back with Rubber Frame and Metal Ring Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3999008981091</id>
+      <title>Black</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>201901255074</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3999008981091</id>
+      <title>Blue</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>201901255098</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3999008981091</id>
+      <title>Red</title>
+      <s:price currency="USD">2.85</s:price>
+      <s:sku>201901255081</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3987853049955</id>
+    <published>2019-08-19T14:37:43-04:00</published>
+    <updated>2019-08-19T14:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-8"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG-0212_244952b8-3ee9-4df3-9efe-afc47522bd34.JPG?v=1566239939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max Heavy Duty Design Case Multicolor Triangles</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987853049955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531820</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3987852656739</id>
+    <published>2019-08-19T14:27:51-04:00</published>
+    <updated>2019-08-19T14:27:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-7"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG-0205_d5f3c712-f009-4d22-b811-8b15dee68d59.JPG?v=1566239852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max Heavy Duty Design Case Color Pastel Color Marble</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Multicolor</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987852656739</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531875</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3987710279779</id>
+    <published>2019-08-19T12:44:24-04:00</published>
+    <updated>2019-08-19T12:44:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-6"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>BTB ELECTRONIC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG-0207_dc4c8190-486a-42e0-a30e-f24ec01e0c57.jpg?v=1566236902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BTB ELECTRONIC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max Heavy Duty Design Case Cover</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Camouflage</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531899</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Light Pink</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531868</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Triangles</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531882</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Yellow Marble</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531844</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Multicolors</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531837</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>America Flag</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531905</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987710279779</id>
+      <title>Peacock</title>
+      <s:price currency="USD">4.30</s:price>
+      <s:sku>1152369531851</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3987559907427</id>
+    <published>2019-08-19T09:42:30-04:00</published>
+    <updated>2019-08-19T09:42:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-case-friendly-glass-screen-protector"/>
+    <title>Apple iPhone XS Max Case Friendly Tempered Glass</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>VALOR COMMUNICATION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IPXSMAXLCDSCPR81TF.jpg?v=1566225212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VALOR COMMUNICATION<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple iPhone Xs Max/ 11 Pro Max Case Friendly Tempered Glass Screen Protector (2.5D)      (25-pack)<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Solid</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3987559907427</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>885126590228</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980600344675</id>
+    <published>2019-08-14T13:05:15-04:00</published>
+    <updated>2019-08-14T13:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-5"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0353.jpg?v=1565802345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Purple and Light Purple </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980600344675</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134844</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980599197795</id>
+    <published>2019-08-14T13:04:29-04:00</published>
+    <updated>2019-08-14T13:04:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-4"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0354.jpg?v=1565802292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Peach and Rose Gold </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Rose Gold</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980599197795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134820</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980598280291</id>
+    <published>2019-08-14T13:03:52-04:00</published>
+    <updated>2019-08-14T13:03:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-3"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0355.jpg?v=1565802253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Teal and Silver </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>Teal</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980598280291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134837</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980597264483</id>
+    <published>2019-08-14T13:03:10-04:00</published>
+    <updated>2019-08-14T13:03:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-2"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0358.jpg?v=1565802217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Black and Black </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black</s:tag>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980597264483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134851</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980596215907</id>
+    <published>2019-08-14T13:02:34-04:00</published>
+    <updated>2019-08-14T13:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover-1"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0359.jpg?v=1565802170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Pink and Pink </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980596215907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134875</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamwirelessga.com/products/3980588580963</id>
+    <published>2019-08-14T12:49:52-04:00</published>
+    <updated>2019-08-14T12:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamwirelessga.com/products/apple-iphone-xs-max-heavy-duty-design-case-cover"/>
+    <title>Apple iPhone Xs Max Heavy Duty Design Case Cover</title>
+    <s:type>Apple iPhone XS Plus 6.5&quot;</s:type>
+    <s:vendor>SWIFT INC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1742/1195/products/IMG_0360.jpg?v=1565801893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWIFT INC<br>
+        <strong>Type: </strong>Apple iPhone XS Plus 6.5&quot;<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Apple iPhone XS Max Luxury Hybrid Marble Design Case in Purple and Purple </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Box Packaged</s:tag>
+    <s:tag>Design</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:variant>
+      <id>https://dreamwirelessga.com/products/3980588580963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>2222231134868</s:sku>
+      <s:grams>191</s:grams>
+    </s:variant>
+  </entry>
+</feed>
